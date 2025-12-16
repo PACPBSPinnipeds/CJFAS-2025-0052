@@ -1,0 +1,1293 @@
+SampleID,Predator.Final,sex,Year,Month,Season,Location,SubSiteID,Complex,RegionCode,Estuary,Latitude,Longitude,Chinook,Chum,Coho,Pink,Sockeye,f
+Pv16.A001,Harbour,MALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A002,Harbour,MALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A003,Harbour,MALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A004,Harbour,FEMALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A007,Harbour,MALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A008,Harbour,MALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A010,Harbour,MALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A011,Harbour,MALE,2016,Apr,Spring,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,0,0,0,0,0,FALSE
+Pv16.A012,Harbour,MALE,2016,Apr,Spring,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,0,0,0,0,0,FALSE
+Pv16.A013,Harbour,MALE,2016,Apr,Spring,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,0,0,0,0,0,FALSE
+Pv16.A014,Harbour,FEMALE,2016,May,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.A015,Harbour,MALE,2016,May,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.A016,Harbour,MALE,2016,May,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.A018,Harbour,MALE,2016,May,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.A019,Harbour,FEMALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A020,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A021,Harbour,FEMALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A022,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A023,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A024,Harbour,FEMALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A025,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A026,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A027,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A028,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A029,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A030,Harbour,MALE,2016,May,Spring,Chemainus,H1918,Chemainus_Logbooms,SOG,Estuary,48.91291011,-123.6883997,0,0,0,0,0,FALSE
+Pv16.A031,Harbour,MALE,2016,May,Spring,Great Chain,H0004,Chain_Islets,SOG,Non-Estuary,48.4205078,-123.265279,0,0,0,0,0,FALSE
+Pv16.A032,Harbour,FEMALE,2016,May,Spring,Great Chain,H0004,Chain_Islets,SOG,Non-Estuary,48.4205078,-123.265279,1.01010101,0,0,0,0,FALSE
+Pv16.A033,Harbour,FEMALE,2016,May,Spring,Great Chain,H0004,Chain_Islets,SOG,Non-Estuary,48.4205078,-123.265279,0,0,0,34.7826087,0,FALSE
+Pv16.A034,Harbour,FEMALE,2016,May,Spring,Great Chain,H0004,Chain_Islets,SOG,Non-Estuary,48.4205078,-123.265279,0,0,0,0,0,FALSE
+Pv16.A036,Harbour,FEMALE,2016,Jun,Summer,Norway,H0181a,Norway_Island,SOG,Non-Estuary,48.973633,-123.617013,0,0,0,0,0,FALSE
+Pv16.A037,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,1.309328969,FALSE
+Pv16.A038,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,59.69735268,4.919169798,29.10660736,0,0,FALSE
+Pv16.A039,Harbour,FEMALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,6.25,0,0,FALSE
+Pv16.A040,Harbour,FEMALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,9.420289855,0,FALSE
+Pv16.A041,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A042,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A045,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A046,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A047,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A048,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A049,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A051,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A053,Harbour,MALE,2016,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A054,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A055,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A056,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A057,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A058,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A059,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A060,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A061,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A062,Harbour,FEMALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A063,Harbour,FEMALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A064,Harbour,FEMALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A065,Harbour,FEMALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A066,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A067,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A068,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A069,Harbour,FEMALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A070,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A071,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A072,Harbour,MALE,2016,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.A073,Harbour,FEMALE,2016,May,Spring,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.A074,Harbour,FEMALE,2016,May,Spring,Norway,H0181a,Norway_Island,SOG,Non-Estuary,48.973633,-123.617013,0,0,0,0,0,FALSE
+Pv16.A075,Harbour,FEMALE,2016,Apr,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv16.A076,Harbour,FEMALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A077,Harbour,MALE,2016,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.A078,Harbour,FEMALE,2016,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.A079,Harbour,FEMALE,2016,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.A080,Harbour,MALE,2016,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.A081,Harbour,FEMALE,2016,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.A082,Harbour,FEMALE,2016,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.A083,Harbour,FEMALE,2016,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.A084,Harbour,FEMALE,2016,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.A085,Harbour,MALE,2016,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.A087,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A088,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,31.57894737,0,0,TRUE
+Pv16.A089,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A090,Harbour,FEMALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A091,Harbour,FEMALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A092,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A093,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A094,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A095,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A096,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A097,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,8.307287383,0,0,TRUE
+Pv16.A098,Harbour,MALE,2016,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.A100,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B001,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B002,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B003,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B004,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B005,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B006,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B007,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B008,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B010,Harbour,MALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B011,Harbour,FEMALE,2016,Jun,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.B012,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B013,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B014,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B015,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B016,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B017,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B018,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B020,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,23.36633663,0,0,0,0,FALSE
+Pv16.B021,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,60.6718473,0,39.3281527,0,0,FALSE
+Pv16.B022,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B023,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B024,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B025,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B026,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,2.319236016,0,0,0,0,FALSE
+Pv16.B027,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,2.651515152,0,FALSE
+Pv16.B028,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B029,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B030,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,3.595206391,FALSE
+Pv16.B031,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B032,Harbour,MALE,2016,Jun,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.B033,Harbour,FEMALE,2016,May,Spring,Great Chain,H0004,Chain_Islets,SOG,Non-Estuary,48.4205078,-123.265279,0,0,1.49845747,0,0,FALSE
+Pv16.B034,Harbour,FEMALE,2016,Jun,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,5.732484076,0,FALSE
+Pv16.B035,Harbour,FEMALE,2016,Jun,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,68,0,0,0,FALSE
+Pv16.B036,Harbour,FEMALE,2016,Jun,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.B037,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B038,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B039,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B040,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B041,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B043,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B045,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B046,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,54.60328061,6.790119071,0,0,0,FALSE
+Pv16.B047,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B048,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B049,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B050,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B051,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B052,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B054,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B055,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B056,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B057,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B058,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,24.1020794,0,0,FALSE
+Pv16.B059,Harbour,FEMALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B060,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,1.180376245,0,98.81962376,0,0,FALSE
+Pv16.B061,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B063,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B064,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B065,Harbour,FEMALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B067,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B068,Harbour,FEMALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B070,Harbour,FEMALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B071,Harbour,FEMALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B072,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B073,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B074,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,41.28595601,0,0,FALSE
+Pv16.B075,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B077,Harbour,FEMALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B078,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B079,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B081,Harbour,FEMALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B082,Harbour,MALE,2016,Jun,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.B083,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B084,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B085,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B086,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B087,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B088,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B090,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B091,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B092,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B093,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B094,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B095,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B096,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B097,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B098,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B099,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.B100,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C001,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C002,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C003,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C004,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C005,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C008,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C009,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C010,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C011,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C012,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C013,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C014,Harbour,FEMALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C016,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C017,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C018,Harbour,MALE,2016,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C019,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C020,Harbour,FEMALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C021,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C022,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C023,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C024,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C025,Harbour,FEMALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C027,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C028,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C029,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C030,Harbour,MALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C031,Harbour,FEMALE,2016,Jun,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C032,Harbour,FEMALE,2016,May,Spring,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,63.920376,0,0,0,0,FALSE
+Pv16.C033,Harbour,MALE,2016,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,4.033264033,0,0,0,0,FALSE
+Pv16.C034,Harbour,MALE,2016,Jul,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,2.94777315,0,0,0,0,FALSE
+Pv16.C035,Harbour,FEMALE,2016,Jul,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv16.C036,Harbour,FEMALE,2016,Jul,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv16.C037,Harbour,FEMALE,2016,Jul,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv16.C039,Harbour,MALE,2016,Jul,Summer,North Reef,H0345,North_Reef,SOG,Estuary,48.91431,-123.62708,0,0,0,0,0,FALSE
+Pv16.C040,Harbour,FEMALE,2016,Jul,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.C041,Harbour,MALE,2016,Jul,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.C042,Harbour,MALE,2016,Jul,Summer,Great Chain,H0004,Chain_Islets,SOG,Non-Estuary,48.4205078,-123.265279,76.85492019,0,0,0,23.14507981,FALSE
+Pv16.C043,Harbour,FEMALE,2016,Jul,Summer,Great Chain,H0004,Chain_Islets,SOG,Non-Estuary,48.4205078,-123.265279,0,0,0,0,0,FALSE
+Pv16.C044,Harbour,MALE,2016,Jul,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.C045,Harbour,MALE,2016,Jul,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.C046,Harbour,FEMALE,2016,Jul,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.C047,Harbour,MALE,2016,Jul,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,48.75218914,0,0,0,0,FALSE
+Pv16.C048,Harbour,FEMALE,2016,Jul,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.C050,Harbour,MALE,2016,Jul,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,1.04175418,0,0,0,0,FALSE
+Pv16.C051,Harbour,MALE,2016,Jul,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,6.754966887,FALSE
+Pv16.C052,Harbour,MALE,2016,Jul,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.C054,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C056,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C057,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C058,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C060,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C061,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C062,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C063,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C065,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C066,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C067,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C068,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C069,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.C070,Harbour,MALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.C071,Harbour,MALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,37.04859028,0,0,FALSE
+Pv16.C072,Harbour,MALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.C073,Harbour,MALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.C074,Harbour,MALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,5.321920357,0,0,FALSE
+Pv16.C076,Harbour,MALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.C077,Harbour,FEMALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.C078,Harbour,MALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.C079,Harbour,MALE,2016,Jul,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.C080,Harbour,MALE,2016,Jul,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C081,Harbour,MALE,2016,Jul,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C082,Harbour,MALE,2016,Jul,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,82.02409008,0,0,0,0,TRUE
+Pv16.C083,Harbour,MALE,2016,Jul,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C084,Harbour,MALE,2016,Jul,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,2.271065185,0,43.81124586,TRUE
+Pv16.C085,Harbour,MALE,2016,Jul,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,66.73553719,TRUE
+Pv16.C086,Harbour,FEMALE,2016,Jul,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C088,Harbour,MALE,2016,Jul,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.C090,Harbour,FEMALE,2016,Jul,Summer,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv16.C091,Harbour,MALE,2016,Jul,Summer,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv16.C092,Harbour,FEMALE,2016,Jul,Summer,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv16.C093,Harbour,MALE,2016,Jul,Summer,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv16.C094,Harbour,MALE,2016,Jul,Summer,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv16.C095,Harbour,MALE,2016,Jul,Summer,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv16.C096,Harbour,MALE,2016,Jul,Summer,Subtle,H0519,Centre_Islet,SOG,Non-Estuary,50.1250804,-125.08974,0,0,0,0,0,FALSE
+Pv16.C097,Harbour,MALE,2016,Jul,Summer,Subtle,H0519,Centre_Islet,SOG,Non-Estuary,50.1250804,-125.08974,0,0,0,0,0,FALSE
+Pv16.C098,Harbour,MALE,2016,Jul,Summer,Subtle,H0519,Centre_Islet,SOG,Non-Estuary,50.1250804,-125.08974,0,0,0,0,0,FALSE
+Pv16.C099,Harbour,MALE,2016,Jul,Summer,Subtle,H0519,Centre_Islet,SOG,Non-Estuary,50.1250804,-125.08974,0,0,0,0,0,FALSE
+Pv16.D001,Harbour,FEMALE,2016,Jul,Summer,Subtle,H0519,Centre_Islet,SOG,Non-Estuary,50.1250804,-125.08974,0,0,0,0,0,FALSE
+Pv16.D004,Harbour,FEMALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D005,Harbour,FEMALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D007,Harbour,MALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D008,Harbour,MALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D010,Harbour,FEMALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D011,Harbour,MALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D012,Harbour,MALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D013,Harbour,MALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D014,Harbour,MALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D016,Harbour,FEMALE,2016,Jul,Summer,Sangster,H0095,NO,SOG,Non-Estuary,49.43002,-124.20511,0,0,0,0,0,FALSE
+Pv16.D017,Harbour,MALE,2016,Jul,Summer,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.D018,Harbour,MALE,2016,Jul,Summer,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.D019,Harbour,MALE,2016,Jul,Summer,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.D020,Harbour,MALE,2016,Jul,Summer,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.D022,Harbour,MALE,2016,Jul,Summer,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.D023,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,100,0,0,0,0,FALSE
+Pv16.D024,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D027,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,92.59702513,0,0,0,FALSE
+Pv16.D029,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D032,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D033,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D034,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D035,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D036,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D037,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D038,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D039,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D042,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D043,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D044,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D045,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D047,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D048,Harbour,MALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D049,Harbour,FEMALE,2016,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.D050,Harbour,FEMALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D051,Harbour,MALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D052,Harbour,MALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D053,Harbour,MALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D054,Harbour,FEMALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D056,Harbour,MALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D060,Harbour,FEMALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D062,Harbour,MALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D063,Harbour,MALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D064,Harbour,FEMALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D066,Harbour,FEMALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D067,Harbour,FEMALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D068,Harbour,MALE,2016,Jul,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.D070,Harbour,FEMALE,2016,Jul,Summer,Breton,H0520a,North_Breton_Islands,SOG,Non-Estuary,50.13007,-125.18523,0,0,0,0,0,FALSE
+Pv16.D074,Harbour,MALE,2016,Jul,Summer,Breton,H0520a,North_Breton_Islands,SOG,Non-Estuary,50.13007,-125.18523,3.231939163,0,0,0,0,FALSE
+Pv16.D075,Harbour,MALE,2016,Jul,Summer,Breton,H0520a,North_Breton_Islands,SOG,Non-Estuary,50.13007,-125.18523,0,0,0,0,0,FALSE
+Pv16.D077,Harbour,FEMALE,2016,Jul,Summer,Breton,H0520a,North_Breton_Islands,SOG,Non-Estuary,50.13007,-125.18523,0,0,0,0,0,FALSE
+Pv16.D081,Harbour,MALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D082,Harbour,MALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D084,Harbour,FEMALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D085,Harbour,MALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D086,Harbour,FEMALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D087,Harbour,FEMALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D088,Harbour,MALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D089,Harbour,FEMALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D090,Harbour,FEMALE,2016,Jul,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.D093,Harbour,MALE,2016,Jul,Summer,Powell Its,H0120,Powell_Islets,SOG,Non-Estuary,50.039,-124.8532,0,0,0,0,0,FALSE
+Pv16.D095,Harbour,MALE,2016,Jul,Summer,Powell Its,H0120,Powell_Islets,SOG,Non-Estuary,50.039,-124.8532,0,0,0,0,0,FALSE
+Pv16.D096,Harbour,MALE,2016,Jul,Summer,Powell Its,H0120,Powell_Islets,SOG,Non-Estuary,50.039,-124.8532,0,0,0,0,0,FALSE
+Pv16.D099,Harbour,MALE,2016,Aug,Summer,Mcrae,H0133,McRae_Islet,SOG,Estuary,49.7437,-124.2902,0,0,0,0,0,FALSE
+Pv16.E001,Harbour,MALE,2016,Aug,Summer,Mcrae,H0133,McRae_Islet,SOG,Estuary,49.7437,-124.2902,0,0,0,0,0,FALSE
+Pv16.E003,Harbour,MALE,2016,Aug,Summer,Mcrae,H0133,McRae_Islet,SOG,Estuary,49.7437,-124.2902,0,0,0,0,0,FALSE
+Pv16.E004,Harbour,FEMALE,2016,Aug,Summer,Mcrae,H0133,McRae_Islet,SOG,Estuary,49.7437,-124.2902,0,0,0,0,0,FALSE
+Pv16.E005,Harbour,MALE,2016,Aug,Summer,Mcrae,H0133,McRae_Islet,SOG,Estuary,49.7437,-124.2902,0,0,0,0,0,FALSE
+Pv16.E007,Harbour,FEMALE,2016,Aug,Summer,Mcrae,H0133,McRae_Islet,SOG,Estuary,49.7437,-124.2902,0,0,0,0,0,FALSE
+Pv16.E008,Harbour,FEMALE,2016,Aug,Summer,Mcrae,H0133,McRae_Islet,SOG,Estuary,49.7437,-124.2902,0,0,0,0,0,FALSE
+Pv16.E009,Harbour,FEMALE,2016,Aug,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.E010,Harbour,FEMALE,2016,Aug,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.E011,Harbour,FEMALE,2016,Aug,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.E012,Harbour,FEMALE,2016,Aug,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.E013,Harbour,MALE,2016,Aug,Summer,Major,H0188,Major_Islet,SOG,Non-Estuary,49.9886,-124.8149,0,0,0,0,0,FALSE
+Pv16.E014,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E015,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,1.421394578,34.58419144,22.17237094,0,1.469851211,TRUE
+Pv16.E016,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E017,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E018,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E019,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E020,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E021,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E022,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E023,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E024,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E025,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E026,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E027,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E028,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,9.894682096,0,0,0,0,TRUE
+Pv16.E029,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E031,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E032,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E033,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E034,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E035,Harbour,FEMALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E036,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E037,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E038,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E039,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E040,Harbour,MALE,2016,Aug,Summer,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E041,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E042,Harbour,FEMALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E043,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E045,Harbour,FEMALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E046,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E047,Harbour,FEMALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E050,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,20.81185567,0,0,0,0,FALSE
+Pv16.E051,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,5.066079295,0,0,0,FALSE
+Pv16.E052,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E054,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E055,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E057,Harbour,FEMALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E059,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E060,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E061,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E062,Harbour,FEMALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E063,Harbour,MALE,2016,Aug,Summer,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv16.E064,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E065,Harbour,FEMALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E066,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E067,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E068,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E070,Harbour,FEMALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E071,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E072,Harbour,FEMALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E074,Harbour,FEMALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E075,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E076,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E077,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E078,Harbour,FEMALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E079,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E080,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E081,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.E083,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E084,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E089,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E090,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,20.13958816,18.43670552,35.04235443,21.11411718,0,TRUE
+Pv16.E091,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E092,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E093,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E094,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E095,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E096,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,14.38790401,0,66.18115712,0,4.391802155,TRUE
+Pv16.E097,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,1.681759188,0,4.359108595,0,0,TRUE
+Pv16.E098,Harbour,FEMALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.E099,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,58.59213251,29.17075297,12.23711453,0,TRUE
+Pv16.F001,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.F002,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.F003,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.F004,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.F005,Harbour,MALE,2016,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.F006,Harbour,MALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F007,Harbour,MALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,3.050847458,0,0,0,0,FALSE
+Pv16.F008,Harbour,MALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,100,0,0,0,0,FALSE
+Pv16.F009,Harbour,MALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,2.23348459,0,0,0,FALSE
+Pv16.F010,Harbour,FEMALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F011,Harbour,MALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F012,Harbour,MALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F013,Harbour,MALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F015,Harbour,MALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F016,Harbour,FEMALE,2016,Sep,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F017,Harbour,FEMALE,2016,Aug,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.F018,Harbour,MALE,2016,Aug,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,3.924004048,96.07599595,0,FALSE
+Pv16.F019,Harbour,MALE,2016,Aug,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,17.57350745,80.21363692,0,FALSE
+Pv16.F020,Harbour,MALE,2016,Aug,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.F021,Harbour,FEMALE,2016,Aug,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.F022,Harbour,MALE,2016,Aug,Summer,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.F023,Harbour,MALE,2016,Aug,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.F024,Harbour,MALE,2016,Aug,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,1.486988848,4.791408509,0,0,0,FALSE
+Pv16.F025,Harbour,MALE,2016,Aug,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.F026,Harbour,MALE,2016,Aug,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,7.027618266,FALSE
+Pv16.F027,Harbour,MALE,2016,Aug,Summer,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,1.900674433,0,FALSE
+Pv16.F030,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F031,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F032,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F034,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,1.308152925,0,0,0,0,FALSE
+Pv16.F035,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F036,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F037,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F039,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F040,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F041,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F042,Harbour,MALE,2016,Aug,Summer,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.F043,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F044,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F045,Harbour,MALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F046,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F047,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F048,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F049,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F050,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F051,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F052,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F053,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F054,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F055,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F056,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F057,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F058,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F059,Harbour,FEMALE,2016,Aug,Summer,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.F060,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F061,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F062,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F063,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F064,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F066,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F067,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F068,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F069,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F070,Harbour,MALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F071,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F072,Harbour,MALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F073,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F074,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.F075,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F077,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F078,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F079,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,11.97422588,0,0,FALSE
+Pv16.F080,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,1.129813235,0,0,0,0,FALSE
+Pv16.F081,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F082,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F083,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F084,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F085,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F086,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F087,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.F092,Harbour,FEMALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F094,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F095,Harbour,MALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F096,Harbour,FEMALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F097,Harbour,FEMALE,2016,Aug,Summer,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.F099,Harbour,FEMALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G003,Harbour,FEMALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G005,Harbour,FEMALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G007,Harbour,FEMALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G008,Harbour,MALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G009,Harbour,MALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G010,Harbour,MALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G011,Harbour,MALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G015,Harbour,MALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G016,Harbour,MALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,25.2913599,28.4765989,0,0,0,FALSE
+Pv16.G017,Harbour,FEMALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G018,Harbour,FEMALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G019,Harbour,FEMALE,2016,Sep,Fall,Imrie,H0161,Imrie_Island,SOG,Non-Estuary,48.69439,-123.33315,0,0,0,0,0,FALSE
+Pv16.G022,Harbour,MALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G023,Harbour,FEMALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G027,Harbour,MALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G028,Harbour,FEMALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,57.15119673,42.84880327,0,0,0,FALSE
+Pv16.G029,Harbour,FEMALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G030,Harbour,MALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G031,Harbour,FEMALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G034,Harbour,MALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G035,Harbour,FEMALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G039,Harbour,FEMALE,2016,Sep,Fall,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv16.G040,Harbour,FEMALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G041,Harbour,FEMALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G042,Harbour,MALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G043,Harbour,FEMALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G045,Harbour,FEMALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G046,Harbour,MALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G047,Harbour,MALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G054,Harbour,MALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G055,Harbour,FEMALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G056,Harbour,MALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G058,Harbour,MALE,2016,Sep,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.G059,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.G064,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.G065,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,13.67521368,0,0,FALSE
+Pv16.G068,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.G069,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.G076,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,14.94825604,0,FALSE
+Pv16.G077,Harbour,FEMALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.G078,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.G079,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G080,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G081,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G082,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G083,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G084,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G086,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G087,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G088,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G089,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G090,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G091,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G092,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G094,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G095,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.G099,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.G100,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H001,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H002,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H004,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H006,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H007,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H008,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,80.41702037,0,0,0,FALSE
+Pv16.H010,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H011,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H012,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H013,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H014,Harbour,MALE,2016,Oct,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.H015,Harbour,FEMALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.H016,Harbour,MALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.H017,Harbour,FEMALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.H018,Harbour,MALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,76.43778772,0,0,0,FALSE
+Pv16.H019,Harbour,MALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.H020,Harbour,MALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,73.00047702,0,0,0,FALSE
+Pv16.H021,Harbour,FEMALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.H022,Harbour,FEMALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.H023,Harbour,MALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,56.23781676,0,0,0,FALSE
+Pv16.H024,Harbour,MALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,40.21381579,0,0,0,FALSE
+Pv16.H025,Harbour,MALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,29.77185453,0,0,0,FALSE
+Pv16.H026,Harbour,FEMALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.H027,Harbour,FEMALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.H029,Harbour,MALE,2016,Nov,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,100,0,0,0,FALSE
+Pv16.H030,Harbour,MALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.H031,Harbour,MALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,3.824362606,0,0,0,FALSE
+Pv16.H032,Harbour,MALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.H034,Harbour,FEMALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.H035,Harbour,MALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.H036,Harbour,MALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.H038,Harbour,FEMALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.H040,Harbour,MALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.H042,Harbour,MALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,100,0,0,0,FALSE
+Pv16.H043,Harbour,FEMALE,2016,Nov,Fall,Sisters,H0251,Sisters_Islets,SOG,Non-Estuary,49.48658,-124.43722,0,0,0,0,0,FALSE
+Pv16.H044,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,27.00421941,0,0,0,TRUE
+Pv16.H045,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.H046,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,47.09167545,0,0,0,TRUE
+Pv16.H047,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,100,0,0,0,TRUE
+Pv16.H049,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,16.71826625,0,0,0,TRUE
+Pv16.H050,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,100,0,0,0,TRUE
+Pv16.H051,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,81.17686023,0,0,0,TRUE
+Pv16.H052,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.H053,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,89.2,0,0,0,TRUE
+Pv16.H054,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,100,0,0,0,TRUE
+Pv16.H055,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.H056,Harbour,FEMALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.H057,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.H058,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,100,0,0,0,TRUE
+Pv16.H060,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,15.19644181,0,0,0,TRUE
+Pv16.H061,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,54.86111111,0,0,0,TRUE
+Pv16.H062,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.H063,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,78.72340426,0,0,0,TRUE
+Pv16.H064,Harbour,FEMALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,100,0,0,0,TRUE
+Pv16.H065,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0.675412616,31.0362991,0,0,0,TRUE
+Pv16.H066,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,38.53904282,0,0,0,TRUE
+Pv16.H067,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,54.39137134,0,0,0,TRUE
+Pv16.H068,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.H069,Harbour,MALE,2016,Nov,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,100,0,0,0,TRUE
+Pv16.H070,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,85.86635127,0,0,0,FALSE
+Pv16.H071,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,22.72483461,0,0,0,FALSE
+Pv16.H072,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.H073,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.H074,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,5.912007333,0,0,0,FALSE
+Pv16.H075,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.H076,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.H077,Harbour,FEMALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.H079,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,50.72864785,0,0,0,FALSE
+Pv16.H080,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.H081,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.H082,Harbour,MALE,2016,Oct,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.H083,Harbour,MALE,2016,Oct,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.H084,Harbour,FEMALE,2016,Oct,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.H085,Harbour,MALE,2016,Oct,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,15.07118311,0,0,0,FALSE
+Pv16.H086,Harbour,MALE,2016,Oct,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.H087,Harbour,MALE,2016,Oct,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.H088,Harbour,MALE,2016,Oct,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.H089,Harbour,MALE,2016,Oct,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.H090,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.H092,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.H093,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.H095,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.H096,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.H097,Harbour,FEMALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.H098,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.H100,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I001,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I002,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I003,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I004,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I005,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I006,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I007,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I008,Harbour,FEMALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I009,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I010,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I011,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I012,Harbour,MALE,2016,Nov,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I014,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,45.43283582,0,0,0,TRUE
+Pv16.I015,Harbour,FEMALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.I016,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,89.23076923,0,0,0,TRUE
+Pv16.I017,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,49.81240344,0,0,0,TRUE
+Pv16.I018,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,3.145532194,0,0,0,TRUE
+Pv16.I019,Harbour,FEMALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.I020,Harbour,FEMALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.I021,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,10.96959737,0,0,0,TRUE
+Pv16.I023,Harbour,FEMALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.I024,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,36.20689655,0,0,0,TRUE
+Pv16.I026,Harbour,FEMALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.I027,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,74.43365696,0,0,0,TRUE
+Pv16.I028,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv16.I029,Harbour,MALE,2016,Oct,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,100,0,0,0,TRUE
+Pv16.I030,Harbour,MALE,2016,Nov,Fall,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,0,20.53045187,0,0,0,FALSE
+Pv16.I033,Harbour,FEMALE,2016,Nov,Fall,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,0,0,0,0,0,FALSE
+Pv16.I034,Harbour,MALE,2016,Nov,Fall,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,0,100,0,0,0,FALSE
+Pv16.I035,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I036,Harbour,MALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I037,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I038,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I039,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I040,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I041,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I043,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I046,Harbour,MALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I048,Harbour,MALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I049,Harbour,MALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I050,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I052,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I053,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I054,Harbour,MALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I055,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.I056,Harbour,MALE,2016,Oct,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,38.79924953,0,0,0,FALSE
+Pv16.I058,Harbour,MALE,2016,Oct,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I060,Harbour,FEMALE,2016,Oct,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I061,Harbour,MALE,2016,Oct,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I062,Harbour,MALE,2016,Oct,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,91.35338346,0,0,0,FALSE
+Pv16.I064,Harbour,MALE,2016,Oct,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I065,Harbour,MALE,2016,Oct,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,49.00242187,0,0,0,FALSE
+Pv16.I066,Harbour,FEMALE,2016,Nov,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.I067,Harbour,MALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.I068,Harbour,FEMALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.I069,Harbour,MALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,17.75412088,0,0,0,FALSE
+Pv16.I070,Harbour,MALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,100,0,0,0,FALSE
+Pv16.I071,Harbour,MALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.I072,Harbour,FEMALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.I073,Harbour,MALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.I074,Harbour,FEMALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.I075,Harbour,MALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,100,0,0,0,FALSE
+Pv16.I076,Harbour,MALE,2016,Oct,Fall,Burial,H0499,Burial_Islet,SOG,Estuary,48.76937,-123.56337,0,0,0,0,0,FALSE
+Pv16.I077,Harbour,MALE,2016,Nov,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I078,Harbour,MALE,2016,Nov,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,42.59986146,0,FALSE
+Pv16.I080,Harbour,MALE,2016,Nov,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I082,Harbour,MALE,2016,Nov,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I083,Harbour,MALE,2016,Nov,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I084,Harbour,MALE,2016,Nov,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I085,Harbour,MALE,2016,Nov,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,97.39613387,0,0,0,FALSE
+Pv16.I086,Harbour,MALE,2016,Nov,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.I087,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.I088,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.I089,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.I090,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,97.28435895,0,0,0,FALSE
+Pv16.I091,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.I092,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.I093,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.I094,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.I095,Harbour,MALE,2016,Nov,Fall,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv16.I097,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.I100,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J001,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J002,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J003,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J004,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J005,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J008,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J010,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J011,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J012,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J013,Harbour,MALE,2016,Sep,Fall,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv16.J014,Harbour,MALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J015,Harbour,MALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J018,Harbour,FEMALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J020,Harbour,MALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,80.81954933,0,0,1.98265825,FALSE
+Pv16.J021,Harbour,MALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J022,Harbour,FEMALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J023,Harbour,MALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,12.95942083,50.1954951,3.408084341,5.448584778,0,FALSE
+Pv16.J024,Harbour,MALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,100,0,0,0,FALSE
+Pv16.J025,Harbour,FEMALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J026,Harbour,MALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J027,Harbour,MALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J028,Harbour,FEMALE,2016,Oct,Fall,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.J030,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J031,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J032,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J034,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J037,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J038,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J039,Harbour,MALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J041,Harbour,MALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J042,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J044,Harbour,FEMALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J045,Harbour,MALE,2016,Sep,Fall,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv16.J048,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.J049,Harbour,FEMALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.J050,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.J051,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.J052,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.J053,Harbour,MALE,2016,Sep,Fall,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv16.J054,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J055,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J056,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J057,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J058,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J059,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,6.59767141,0,FALSE
+Pv16.J060,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J061,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J062,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J063,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J064,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J065,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J066,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,4.130164749,10.52389627,0,0,0,FALSE
+Pv16.J068,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J070,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J072,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J073,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J074,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J075,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J076,Harbour,MALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J077,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J078,Harbour,FEMALE,2016,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.J079,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J080,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J083,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J084,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J085,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J086,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J087,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J088,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J089,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J091,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J092,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J093,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J094,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J095,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J096,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J097,Harbour,FEMALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J098,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.J100,Harbour,MALE,2016,Sep,Fall,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,12.23880597,0,0,FALSE
+Pv16.K001,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K002,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,100,0,0,0,0,FALSE
+Pv16.K003,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K005,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K006,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K007,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K010,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K011,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K012,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K013,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,3.2,0,0,0,FALSE
+Pv16.K014,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K015,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,100,0,0,0,0,FALSE
+Pv16.K016,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,73.65802869,0,26.34197131,0,0,FALSE
+Pv16.K017,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K018,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K019,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K020,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K021,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K022,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K025,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K026,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K027,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K028,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K029,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K031,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,100,0,0,0,0,FALSE
+Pv16.K032,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K035,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K050,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,7.939508507,0,0,0,0,FALSE
+Pv16.K051,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K052,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K053,Harbour,MALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K054,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K055,Harbour,MALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K056,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K057,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K058,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K059,Harbour,MALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K063,Harbour,MALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K064,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K065,Harbour,MALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K067,Harbour,MALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K068,Harbour,MALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,61.94379391,0,0,0,0,FALSE
+Pv16.K069,Harbour,MALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K070,Harbour,FEMALE,2016,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K071,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K072,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K073,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,37.77360851,0,0,0,FALSE
+Pv16.K074,Harbour,FEMALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K075,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,85.97785978,0,0,0,FALSE
+Pv16.K076,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,87.69911504,0,0,0,FALSE
+Pv16.K078,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K079,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K081,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K082,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K083,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K084,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K085,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,93.86909693,0,0,0,FALSE
+Pv16.K086,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,12.65822785,0,0,0,FALSE
+Pv16.K087,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,88.60759494,0,0,0,FALSE
+Pv16.K088,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K089,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K090,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K091,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K092,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K093,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K095,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K097,Harbour,FEMALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.K098,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K099,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.K100,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L001,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,95.37815126,0,0,0,FALSE
+Pv16.L002,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L003,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L004,Harbour,MALE,2016,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L006,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L009,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L010,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L011,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L012,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L013,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L015,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.L017,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.L019,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L021,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L022,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.L023,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L024,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,37.31343284,0,0,0,FALSE
+Pv16.L025,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L026,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L027,Harbour,FEMALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L029,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L030,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,95.63356164,0,0,0,FALSE
+Pv16.L031,Harbour,FEMALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.L032,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,98.63945578,0,0,0,FALSE
+Pv16.L033,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.L034,Harbour,FEMALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.L035,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L037,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.L039,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L040,Harbour,MALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,100,0,0,0,FALSE
+Pv16.L041,Harbour,FEMALE,2016,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,97.39583333,0,0,0,FALSE
+Pv16.L057,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L058,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,2.08973571,0,0,0,0,FALSE
+Pv16.L059,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L060,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L061,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L062,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L063,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L064,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,7.068273092,0,0,FALSE
+Pv16.L065,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L066,Harbour,MALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L067,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L068,Harbour,FEMALE,2016,Aug,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv16.L070,Harbour,FEMALE,2016,Jun,Summer,Mcrae,H0133,McRae_Islet,SOG,Estuary,49.7437,-124.2902,0,0,0,0,0,FALSE
+Pv16.L071,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.L072,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.L074,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.L076,Harbour,FEMALE,2016,Aug,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv16.L077,Harbour,MALE,2016,Aug,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.L078,Harbour,FEMALE,2016,Aug,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.L079,Harbour,FEMALE,2016,Aug,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.L080,Harbour,FEMALE,2016,Aug,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.L081,Harbour,FEMALE,2016,Aug,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.L082,Harbour,FEMALE,2016,Aug,Summer,Sandstone,H0046,Sandstone_Rocks,SOG,Estuary,48.92029,-123.62231,0,0,0,0,0,FALSE
+Pv16.L083,Harbour,FEMALE,2016,Aug,Summer,Alarm,H1462,Alarm_Rock,SOG,Non-Estuary,48.95889,-123.67545,0,0,0,0,0,FALSE
+Pv16.L085,Harbour,FEMALE,2016,Aug,Summer,Alarm,H1462,Alarm_Rock,SOG,Non-Estuary,48.95889,-123.67545,0,0,0,0,0,FALSE
+Pv16.L087,Harbour,MALE,2016,Aug,Summer,Rose,H0047,Rose_Islets,SOG,Non-Estuary,49.00763,-123.64365,0,0,0,0,0,FALSE
+Pv16.L088,Harbour,FEMALE,2016,Aug,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv16.L089,Harbour,MALE,2016,Aug,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv16.L090,Harbour,FEMALE,2016,Aug,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv16.L091,Harbour,FEMALE,2016,Aug,Summer,Mandarte Nw,H0014,Northwest_Mandarte_Island_Rock,SOG,Non-Estuary,48.6382798,-123.297494,0,0,0,0,0,FALSE
+Pv16.L092,Harbour,MALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.L093,Harbour,MALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.L094,Harbour,FEMALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.L095,Harbour,MALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.L096,Harbour,FEMALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.L097,Harbour,MALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.L098,Harbour,FEMALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.L099,Harbour,FEMALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.L100,Harbour,FEMALE,2016,Aug,Summer,Kendrick,H0062,East_Kendrick_Island_Rock,SOG,Non-Estuary,49.12253,-123.68724,0,0,0,0,0,FALSE
+Pv16.M001,Harbour,MALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M002,Harbour,FEMALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M003,Harbour,FEMALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M004,Harbour,MALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M005,Harbour,FEMALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M006,Harbour,MALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M007,Harbour,FEMALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M008,Harbour,MALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M009,Harbour,FEMALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M010,Harbour,FEMALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M011,Harbour,MALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M012,Harbour,FEMALE,2016,Aug,Summer,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv16.M013,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M014,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M015,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M016,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M017,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M018,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M019,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,6.768189509,0,0,2.96108291,0,FALSE
+Pv16.M020,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M022,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M023,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,6.457480673,0,4.934060937,0,FALSE
+Pv16.M024,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M025,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M026,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,0,0,FALSE
+Pv16.M027,Harbour,FEMALE,2016,Aug,Summer,D'arcy,H0008,Northwest_Little_D'Arcy_Island_Rock,SOG,Non-Estuary,48.57442,-123.27049,0,0,0,36.84210526,0,FALSE
+Pv16.M028,Harbour,FEMALE,2016,Aug,Summer,Munroe,H0011,Munroe_Rock,SOG,Non-Estuary,48.5916735,-123.30476,0,0,0,0,0,FALSE
+Pv16.M029,Harbour,MALE,2016,Aug,Summer,Munroe,H0011,Munroe_Rock,SOG,Non-Estuary,48.5916735,-123.30476,0,0,0,0,0,FALSE
+Pv16.M030,Harbour,FEMALE,2016,Aug,Summer,Mandarte Nw,H0014,Northwest_Mandarte_Island_Rock,SOG,Non-Estuary,48.6382798,-123.297494,0,0,0,0,0,FALSE
+Pv16.M031,Harbour,MALE,2016,Aug,Summer,Brethour,H0018,Reay_Island,SOG,Non-Estuary,48.682639,-123.328963,0,0,0,0,0,FALSE
+Pv16.M033,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M034,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,4.013464526,0,0,0,FALSE
+Pv16.M035,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M036,Harbour,FEMALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M037,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M038,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M039,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M040,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M041,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M042,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,33.75177641,0,FALSE
+Pv16.M043,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M044,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M045,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,100,0,0,FALSE
+Pv16.M046,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M047,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M048,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M049,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M050,Harbour,FEMALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M051,Harbour,FEMALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M052,Harbour,FEMALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M053,Harbour,FEMALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M054,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,4.934640826,1.052055405,0,0,FALSE
+Pv16.M055,Harbour,MALE,2016,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv16.M056,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,8.287292818,0,0,0,0,FALSE
+Pv16.M057,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.M059,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.M060,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.M061,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.M062,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.M063,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,100,0,0,0,0,FALSE
+Pv16.M064,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.M065,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,65.24064171,0,0,0,0,FALSE
+Pv16.M066,Harbour,FEMALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv16.M067,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,7.692307692,6.680161943,0,FALSE
+Pv16.M068,Harbour,MALE,2016,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,60.09615385,0,0,0,0,FALSE
+Pv17.A002,Harbour,MALE,2017,Apr,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.A003,Harbour,MALE,2017,Apr,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.A004,Harbour,FEMALE,2017,Apr,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.A005,Harbour,MALE,2017,Apr,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.A006,Harbour,MALE,2017,Apr,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.A007,Harbour,MALE,2017,Apr,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.A013,Harbour,FEMALE,2017,Apr,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv17.A015,Harbour,MALE,2017,Apr,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv17.A019,Harbour,MALE,2017,Apr,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv17.A020,Harbour,MALE,2017,Apr,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv17.A022,Harbour,FEMALE,2017,Apr,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv17.A030,Harbour,MALE,2017,May,Spring,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv17.A034,Harbour,FEMALE,2017,Apr,Spring,Sidney,H0011,Munroe_Rock,SOG,Non-Estuary,48.5916735,-123.30476,0,0,0,0,0,FALSE
+Pv17.A042,Harbour,MALE,2017,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.A046,Harbour,FEMALE,2017,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.A054,Harbour,MALE,2017,Apr,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.A058,Harbour,MALE,2017,Apr,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.A066,Harbour,FEMALE,2017,Apr,Spring,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv17.A070,Harbour,MALE,2017,Apr,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,3.351955307,FALSE
+Pv17.A078,Harbour,FEMALE,2017,Apr,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv17.A080,Harbour,MALE,2017,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv17.A082,Harbour,FEMALE,2017,May,Spring,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv17.A090,Harbour,MALE,2017,Apr,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.A092,Harbour,MALE,2017,Apr,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.A094,Harbour,MALE,2017,Apr,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.B002,Harbour,MALE,2017,Apr,Spring,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,0,0,0,0,0,FALSE
+Pv17.B005,Harbour,FEMALE,2017,Apr,Spring,Heron,H0203a,Norris-Heron_Rocks,SOG,Non-Estuary,49.48989,-124.65461,0,0,0,0,0,FALSE
+Pv17.B008,Harbour,FEMALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B009,Harbour,FEMALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B011,Harbour,FEMALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B012,Harbour,MALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B015,Harbour,MALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B016,Harbour,MALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B017,Harbour,MALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B018,Harbour,FEMALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B019,Harbour,MALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B020,Harbour,FEMALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B021,Harbour,MALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B022,Harbour,MALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B023,Harbour,MALE,2017,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv17.B026,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B030,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B031,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B033,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B034,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B036,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B038,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B040,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B043,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B044,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B045,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B047,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B049,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B051,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,5.439679626,0,0,0,FALSE
+Pv17.B052,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,81.73228346,0,0,0,0,FALSE
+Pv17.B053,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B056,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B058,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B059,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B060,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B062,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B064,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B066,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B069,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B070,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B071,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B074,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B075,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B078,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B081,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B082,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B083,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.B084,Harbour,MALE,2017,May,Spring,Sidney,H0011,Munroe_Rock,SOG,Non-Estuary,48.5916735,-123.30476,0,0,0,0,0,FALSE
+Pv17.B085,Harbour,MALE,2017,May,Spring,Sidney,H0011,Munroe_Rock,SOG,Non-Estuary,48.5916735,-123.30476,0,0,0,0,0,FALSE
+Pv17.B091,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.B092,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.B093,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.B096,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.B097,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.B098,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.B099,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.B100,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.C001,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.C002,Harbour,MALE,2017,May,Spring,Rebecca,H0111,Rebecca_Rock,SOG,Non-Estuary,49.81367,-124.65966,0,0,0,0,0,FALSE
+Pv17.C003,Harbour,MALE,2017,May,Spring,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv17.C004,Harbour,FEMALE,2017,May,Spring,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv17.C005,Harbour,MALE,2017,May,Spring,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv17.C010,Harbour,MALE,2017,May,Spring,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv17.C014,Harbour,MALE,2017,May,Spring,Vivian,H0112,Vivian_Island,SOG,Non-Estuary,49.8404,-124.70014,0,0,0,0,0,FALSE
+Pv17.C015,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C016,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C017,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C018,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C019,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C020,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C023,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C024,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C025,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C026,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C027,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C028,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C029,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C030,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C031,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C032,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C033,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C035,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C036,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C037,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C038,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C039,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C041,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C042,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C044,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C045,Harbour,FEMALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C046,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C047,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C048,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C049,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C050,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C051,Harbour,MALE,2017,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv17.C052,Harbour,MALE,2017,May,Spring,Sallas,H0009b,Sallas_Rocks,SOG,Non-Estuary,48.58283127,-123.2810194,0,0,0,0,0,FALSE
+Pv17.C053,Harbour,FEMALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C054,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C055,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C056,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,2.093197109,0,0,0,FALSE
+Pv17.C057,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C058,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C059,Harbour,FEMALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C060,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C061,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C062,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,4.924242424,0,0,0,FALSE
+Pv17.C063,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C064,Harbour,FEMALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C065,Harbour,FEMALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C066,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C067,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,0,0,0,0,FALSE
+Pv17.C068,Harbour,MALE,2017,May,Spring,Mistaken,H0094,Northeast_Mistaken_Islet_Reefs,SOG,Non-Estuary,49.32738,-124.21987,0,8.582834331,0,0,0,FALSE
+Pv17.C069,Harbour,MALE,2017,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv17.C070,Harbour,FEMALE,2017,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv17.C071,Harbour,MALE,2017,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv17.C072,Harbour,MALE,2017,May,Spring,Yeo,H0092,East_Yeo_Islands_Islet,SOG,Non-Estuary,49.30609,-124.12689,0,0,0,0,0,FALSE
+Pv17.C073,Harbour,FEMALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C074,Harbour,MALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C075,Harbour,FEMALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C076,Harbour,MALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C077,Harbour,FEMALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C079,Harbour,MALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C080,Harbour,MALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C081,Harbour,MALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C082,Harbour,MALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C083,Harbour,FEMALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C084,Harbour,MALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv17.C085,Harbour,MALE,2017,May,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv18.A023,Harbour,MALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A029,Harbour,MALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A031,Harbour,MALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A034,Harbour,MALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A040,Harbour,MALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A053,Harbour,FEMALE,2018,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A055,Harbour,MALE,2018,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A058,Harbour,FEMALE,2018,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A064,Harbour,MALE,2018,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A065,Harbour,MALE,2018,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A077,Harbour,MALE,2018,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A080,Harbour,FEMALE,2018,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A098,Harbour,FEMALE,2018,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.A099,Harbour,FEMALE,2018,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,11.08020587,86.37287724,FALSE
+Pv18.B001,Harbour,FEMALE,2018,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B004,Harbour,FEMALE,2018,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B010,Harbour,MALE,2018,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B011,Harbour,FEMALE,2018,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B013,Harbour,FEMALE,2018,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B016,Harbour,MALE,2018,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B032,Harbour,MALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B033,Harbour,FEMALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B035,Harbour,MALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B058,Harbour,MALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B064,Harbour,FEMALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,6.900328587,0,3.943044907,0,0,FALSE
+Pv18.B065,Harbour,FEMALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,24.85028408,0,0,0,75.14971592,FALSE
+Pv18.B067,Harbour,FEMALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B070,Harbour,FEMALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B075,Harbour,MALE,2018,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,2.305721605,0,0,0,0,FALSE
+Pv18.B078,Harbour,MALE,2018,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B085,Harbour,FEMALE,2018,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B086,Harbour,FEMALE,2018,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B097,Harbour,MALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.B098,Harbour,FEMALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.C009,Harbour,FEMALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.C021,Harbour,MALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.C022,Harbour,FEMALE,2018,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv18.C033,Harbour,FEMALE,2018,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C034,Harbour,MALE,2018,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,1.747834493,0,0.139040562,0,FALSE
+Pv18.C045,Harbour,FEMALE,2018,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C046,Harbour,FEMALE,2018,Apr,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C057,Harbour,MALE,2018,Apr,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,2.927400468,0,0,0,0,FALSE
+Pv18.C058,Harbour,MALE,2018,Apr,Spring,Flora,H0099,Flora_Islet,SOG,Non-Estuary,49.5155,-124.5721,0,0,0,0,0,FALSE
+Pv18.C068,Harbour,MALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C069,Harbour,FEMALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C071,Harbour,MALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C072,Harbour,FEMALE,2018,May,Spring,Entrance,H0233,Northwest_Entrance_Island_Reefs,SOG,Non-Estuary,49.2086915,-123.811911,0,0,0,0,0,FALSE
+Pv18.C073,Harbour,MALE,2018,May,Spring,Entrance,H0233,Northwest_Entrance_Island_Reefs,SOG,Non-Estuary,49.2086915,-123.811911,0,0,0,0,0,FALSE
+Pv18.C074,Harbour,MALE,2018,May,Spring,Entrance,H0233,Northwest_Entrance_Island_Reefs,SOG,Non-Estuary,49.2086915,-123.811911,0,0,0,0,0,FALSE
+Pv18.C075,Harbour,FEMALE,2018,May,Spring,Entrance,H0233,Northwest_Entrance_Island_Reefs,SOG,Non-Estuary,49.2086915,-123.811911,0,0,0,0,0,FALSE
+Pv18.C076,Harbour,MALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C077,Harbour,FEMALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C078,Harbour,MALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C079,Harbour,MALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C080,Harbour,MALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C081,Harbour,FEMALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C082,Harbour,MALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C083,Harbour,MALE,2018,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv18.C084,Harbour,FEMALE,2018,Jun,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv18.C085,Harbour,FEMALE,2018,Jun,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv18.C086,Harbour,MALE,2018,Jun,Summer,Preedy,H0528a,Southeast_Preedy_Harbour_Reefs,SOG,Non-Estuary,48.96724,-123.67533,0,0,0,0,0,FALSE
+Pv18.C088,Harbour,FEMALE,2018,Jun,Summer,Ragged It,H0048,Ragged_Islets,SOG,Non-Estuary,49.02591,-123.69544,0,0,0,0,0,FALSE
+Pv18.C089,Harbour,FEMALE,2018,Jun,Summer,Ragged It,H0048,Ragged_Islets,SOG,Non-Estuary,49.02591,-123.69544,0,0,0,0,0,FALSE
+Pv18.C090,Harbour,FEMALE,2018,Jun,Summer,Ragged It,H0048,Ragged_Islets,SOG,Non-Estuary,49.02591,-123.69544,0,0,0,0,0,FALSE
+Pv18.E081,Harbour,FEMALE,2018,Aug,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.E086,Harbour,MALE,2018,Aug,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.E088,Harbour,MALE,2018,Aug,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.E093,Harbour,MALE,2018,Aug,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.E098,Harbour,MALE,2018,Aug,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.E100,Harbour,MALE,2018,Aug,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.F005,Harbour,MALE,2018,Aug,Summer,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.F034,Harbour,MALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.F036,Harbour,MALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.F041,Harbour,MALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.F046,Harbour,MALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,20.37470726,0,0,FALSE
+Pv18.F048,Harbour,FEMALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.F053,Harbour,MALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.F058,Harbour,MALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,2.99566417,0,2.483247931,FALSE
+Pv18.F060,Harbour,MALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv18.F064,Harbour,FEMALE,2018,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.A001,Harbour,MALE,2019,Mar,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv19.A043,Harbour,MALE,2019,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv19.A046,Harbour,FEMALE,2019,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv19.A049,Harbour,MALE,2019,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv19.A050,Harbour,FEMALE,2019,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv19.A054,Harbour,MALE,2019,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv19.A058,Harbour,FEMALE,2019,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv19.A061,Harbour,FEMALE,2019,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.75616,-123.62233,0,0,0,0,0,FALSE
+Pv19.A064,Harbour,MALE,2019,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,1.313378131,0,0,FALSE
+Pv19.A066,Harbour,MALE,2019,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,2.695243155,0,1.22452153,0.531273891,0,FALSE
+Pv19.A082,Harbour,FEMALE,2019,May,Spring,Entrance,H0233,Northwest_Entrance_Island_Reefs,SOG,Non-Estuary,49.2086915,-123.811911,0,0,0,0,0,FALSE
+Pv19.A085,Harbour,FEMALE,2019,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv19.A086,Harbour,MALE,2019,May,Spring,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv19.A088,Harbour,MALE,2019,May,Spring,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv19.A090,Harbour,FEMALE,2019,May,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv19.A097,Harbour,MALE,2019,May,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv19.A098,Harbour,FEMALE,2019,May,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv19.A100,Harbour,MALE,2019,May,Spring,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv19.B006,Harbour,FEMALE,2019,Jun,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv19.B010,Harbour,MALE,2019,Jun,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv19.B012,Harbour,FEMALE,2019,Jun,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv19.B014,Harbour,MALE,2019,Jun,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv19.B018,Harbour,MALE,2019,Jun,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv19.B021,Harbour,MALE,2019,Jun,Summer,Snake,H0054,Snake_Island,SOG,Non-Estuary,49.21444,-123.89004,0,0,0,0,0,FALSE
+Pv19.B022,Harbour,MALE,2019,Jun,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv19.B024,Harbour,MALE,2019,Jun,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv19.B026,Harbour,FEMALE,2019,Jun,Summer,Danger,H0028,Danger_Reefs,SOG,Non-Estuary,49.05388,-123.7145,0,0,0,0,0,FALSE
+Pv19.B029,Harbour,FEMALE,2019,Jun,Summer,Miami,H0027,Miami_Islet,SOG,Non-Estuary,49.03746,-123.70938,0,0,0,0,0,FALSE
+Pv19.B032,Harbour,MALE,2019,Jun,Summer,Ragged It,H0048,Ragged_Islets,SOG,Non-Estuary,49.02591,-123.69544,0,0,0,0,0,FALSE
+Pv19.F001,Harbour,FEMALE,2019,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv19.F006,Harbour,FEMALE,2019,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv19.F007,Harbour,MALE,2019,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,100,0,FALSE
+Pv19.F008,Harbour,MALE,2019,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv19.F012,Harbour,MALE,2019,Sep,Fall,Valdes Ne,H0063,Northeast_Valdes_Island_Rock,SOG,Non-Estuary,49.10867,-123.66638,0,0,0,0,0,FALSE
+Pv19.F018,Harbour,MALE,2019,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv19.F019,Harbour,MALE,2019,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,98.30717686,0,TRUE
+Pv19.F020,Harbour,MALE,2019,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,100,0,TRUE
+Pv19.F024,Harbour,MALE,2019,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,0,0,TRUE
+Pv19.F030,Harbour,MALE,2019,Sep,Fall,Belle Chain,H0069a,Belle_Chain,SOG,Belle Chain,48.83226,-123.19843,0,0,0,97.86324786,0,TRUE
+Pv19.F066,Harbour,MALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F067,Harbour,FEMALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F068,Harbour,MALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F072,Harbour,FEMALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F078,Harbour,FEMALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F079,Harbour,MALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F080,Harbour,MALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F084,Harbour,MALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F089,Harbour,MALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F090,Harbour,MALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE
+Pv19.F091,Harbour,MALE,2019,Sep,Fall,Norris,H0470,Norris-Heron_Rocks,SOG,Non-Estuary,49.48441,-124.64681,0,0,0,0,0,FALSE

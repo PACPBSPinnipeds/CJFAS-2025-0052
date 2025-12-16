@@ -1,0 +1,1436 @@
+SampleID,Predator.Final,Year,Month,Season,Location,SubSiteID,Complex,RegionCode,Estuary,Latitude,Longitude,Chinook,Chum,Coho,Hake,Herring,Pink,Sockeye
+Pv12.001,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,1.642857143,0,0
+Pv12.002,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,28.62474878,0,0
+Pv12.003,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,66.66666667,0,0
+Pv12.004,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,4.712041885,5.235602094,0,0
+Pv12.005,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv12.006,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,15.90018066,0,0,0,43.65217391,0,0
+Pv12.007,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,17.54385965,16.04010025,0,0
+Pv12.008,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,21.6507177,19.97607656,0,0
+Pv12.009,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,2.286401925,0,0
+Pv12.010,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,56.70620438,0,0,0,0,0,0
+Pv12.011,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,47.32775274,0,0
+Pv12.012,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,3.546099291,0,6.382978723,0,0
+Pv12.013,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,51.14638448,0,0
+Pv12.014,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,14.81481481,70.37037037,0,0
+Pv12.015,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,52.17391304,0,0
+Pv12.016,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.699200913,0.057077626,0.271118721,0,98.63013699,0.085616438,0
+Pv12.017,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,10.76923077,9.230769231,0
+Pv12.018,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,58.82352941,0,0
+Pv12.019,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,91.44385027,0,0
+Pv12.020,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.55630414,0,0
+Pv12.021,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,93.2642487,0,0
+Pv12.022,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,87.96033994,0,0
+Pv12.024,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,75,0,0
+Pv12.025,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,7.843137255,0,0,0,60.78431373,0,0
+Pv12.026,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.027,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.028,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,94.67084639,3.761755486,0,0
+Pv12.029,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.030,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,4.174228675,0,0
+Pv12.031,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.1420765,0,0
+Pv12.032,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.033,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,4.545454545,82.72727273,0,0
+Pv12.034,Harbour seal,2012,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,57.0518943,0,0
+Pv12.035,Harbour seal,2012,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.94894895,0,0
+Pv12.036,Harbour seal,2012,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.598401598,98.4015984,0
+Pv12.037,Harbour seal,2012,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.038,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,19.35483871,0,0
+Pv12.039,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0.659498208,0.143369176,1.003584229,0,32.25806452,0.114695341,0
+Pv12.040,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,4.145601618,0,0
+Pv12.041,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0.932826152,1.519914358,1.636147458,5.194805195,80.51948052,2.404618526,0
+Pv12.042,Harbour seal,2012,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,32.16520651,0,0,0,62.70337922,0,0
+Pv12.043,Harbour seal,2012,May,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.044,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,5.955334988,1.033912324,0,0
+Pv12.045,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,1.148648649,1.351351351,0,0
+Pv12.046,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,9.803921569,0,0,13.7254902,60.78431373,0,0
+Pv12.047,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,10.61007958,2.519893899,0,0
+Pv12.048,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,4.096489448,1.445819805,2.89163961,0,5.580357143,0,0
+Pv12.049,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,1.377952756,0,0
+Pv12.050,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv12.051,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0.555011109,0,0,0,17.82246879,0,0
+Pv12.052,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,31.81818182,0,0
+Pv12.053,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,14.68144044,0,0
+Pv12.054,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,56.41025641,0,0
+Pv12.055,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,55,0,0,0,0,0,0
+Pv12.056,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0.500770416,0.269645609,0.693374422,0,12.71186441,0.269645609,0
+Pv12.057,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,2.234636872,16.20111732,0,0
+Pv12.058,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,76.63366337,0,0,0,23.36633663,0,0
+Pv12.059,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,72,0,0
+Pv12.060,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,31.67554766,2.545885139,41.14860864,0,1.420959147,15.51213736,7.696862049
+Pv12.061,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,72.42206235,0,0
+Pv12.062,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,84.67741935,0,0
+Pv12.063,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,6.024096386,0,0,6.024096386,68.6746988,0,0
+Pv12.064,Harbour seal,2012,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,20.68965517,0,0,0,62.06896552,0,0
+Pv12.065,Harbour seal,2012,Jun,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.066,Harbour seal,2012,Jun,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.067,Harbour seal,2012,Jun,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,40,0,0
+Pv12.068,Harbour seal,2012,Jun,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.069,Harbour seal,2012,Jun,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,68.77756774,0,0
+Pv12.070,Harbour seal,2012,Jun,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.071,Harbour seal,2012,Jun,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,3.259259259,0,0
+Pv12.072,Harbour seal,2012,Jun,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.073,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,11.39240506,0,0
+Pv12.074,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.970191226,0.253093363,0.464004499,0,28.23397075,0.168728909,0
+Pv12.075,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,66.80851064,0,0
+Pv12.076,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.077,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv12.078,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,1.246105919,15.26479751,0,0
+Pv12.079,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,2.635327635,0.997150997,1.638176638,0,24.07407407,0.997150997,0
+Pv12.080,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,5.491161982,68.75543321,0,0,25.75340481,0
+Pv12.081,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,97.23018147,2.769818529,0,0
+Pv12.082,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,26.76056338,26.76056338,5.633802817,29.57746479,0,0
+Pv12.083,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,2.644230769,0,0,1.394230769,0,0
+Pv12.084,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.085,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,1.581027668,9.881422925,8.300395257,0
+Pv12.086,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,7.089552239,30.97014925,0
+Pv12.087,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,98.34254144,0,0,0,1.657458564,0,0
+Pv12.088,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,20.18761119,4.312899883,45.26520041,0,21.39588101,4.940598927,0
+Pv12.089,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,89.54248366,0,0
+Pv12.090,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,7.954545455,0,0
+Pv12.091,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,60.38812785,0,0
+Pv12.092,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.238019676,0,0.333227547,0,3.771289538,0,0.285623612
+Pv12.093,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,29.70622025,36.96044641,0,33.33333333,0,0
+Pv12.094,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,97.07977208,1.495726496,0,0
+Pv12.095,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,5.555555556,6.944444444,59.72222222,0,0
+Pv12.096,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.097,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,16.71415005,0,3.038936372,0,55.55555556,0,9.87654321
+Pv12.098,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.099,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,2.856231778,0,0.563729956,0,20.99125364,0.281864978,1.108668914
+Pv12.100,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv12.101,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,63.38856227,0,0
+Pv12.102,Harbour seal,2012,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.445000695,0,0.131477478,0,98.99874844,0.060681913,0.364091478
+Pv12.103,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.104,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,22.81481481,0,9.777777778,4.938271605,16.04938272,0,21.72839506
+Pv12.105,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.106,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.621616,0,0.268036257,0,98.71114481,0.06273189,0.302253652
+Pv12.107,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.104717813,0,0,2.777777778,67.36111111,5.335097002,0.115740741
+Pv12.108,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,23.29822786,0,0,0,0,0,0.427591005
+Pv12.109,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.110,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,2.309371851,0,0.708207368,2.183406114,86.4628821,0.369499496,1.416414735
+Pv12.111,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.112,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,9.105625253,0,0
+Pv12.113,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.41509434,0,0.353773585,1.650943396,95.75471698,0,0.825471698
+Pv12.114,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.003924533,0,0.221797281,0,16.94386694,0.070041247,0.887189122
+Pv12.115,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.506099079,0,49.49208918,2.136752137,35.04273504,0,0.711213454
+Pv12.116,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.170670059,0,0.439001272,0,95.8968347,0.128042038,0.676793628
+Pv12.117,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.308900524,0,0,1.832460733,3.403141361,0,0
+Pv12.118,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,9.375,0,10.9375,15.625,23.4375,0,17.1875
+Pv12.119,Harbour seal,2012,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.821567358,0,0.491823187,0,96.484375,0.127509715,0.947215026
+Pv12.120,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,8.691276703,0,3.997987283,0,78.09798271,1.216778738,7.995974567
+Pv12.121,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.122,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,25.56433409,72.96839729,0,0
+Pv12.123,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,26.27094051,0,6.447698193,0,66.91729323,0,0.364068065
+Pv12.124,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.528169014,0,0.165700083,0,51.87793427,0,0.310687655
+Pv12.125,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,3.488372093,0,0,0,94.18604651,0,2.325581395
+Pv12.126,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,9.576271186,90.42372881,0,0
+Pv12.127,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.128,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,24.82464455,0,19.67772512,0,55,0,0.497630332
+Pv12.129,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,2.232142857,0,2.232142857,0,3.571428571,0,0
+Pv12.130,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,77.62946054,0,0,0,1.807943094,0,5.624837029
+Pv12.131,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,1.238390093,0,0
+Pv12.132,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,41.15128449,0,36.82207422,0,20.69457659,0,0
+Pv12.133,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.134,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.639181847,0,0.106530308,0,0,0.085224246,0.511345478
+Pv12.135,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.977126959,0,95.84888724,0,1.067073171,0,1.106912629
+Pv12.136,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.199040767,0,0,0,1.758593125,0,1.039168665
+Pv12.137,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.138,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.139,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv12.140,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,17.1957672,0,0,16.66666667,38.0952381,0,13.75661376
+Pv12.141,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.142,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.120499182,0,0,0,4,5.632364975,0.093289689
+Pv12.143,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.144,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,9.366841076,0,2.025262935,0,0,1.265789335,13.92368268
+Pv12.145,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.965596166,0,0.402331736,0,96.62756598,0,0.670552893
+Pv12.146,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.147,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,57.16640643,0,0,0,23.93961179,17.97467313,0.91930866
+Pv12.148,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,33.33333333,0,0,0,66.66666667,0,0
+Pv12.149,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.178991489,0,0,86.40776699,4.611650485,7.219323382,0.125956974
+Pv12.150,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,4.918032787,0,0,78.1420765,9.836065574,0,2.732240437
+Pv12.151,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,98.88182714,0,0,0,0,0,1.118172858
+Pv12.152,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,4.123900293,0,1.580828446,2.272727273,82.95454545,0.343658358,2.474340176
+Pv12.153,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,4.635761589,0,4.635761589,7.947019868,12.58278146,0,9.271523179
+Pv12.154,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,66.50932761,0,0,0,32.69489247,0,0.795779913
+Pv12.155,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,3.149836372,0,0.859046283,1.411290323,91.12903226,0.204534829,1.431743806
+Pv12.156,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.514993561,0,0.168652862,0,89.3236715,9.685492938,0.307189142
+Pv12.157,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.515151515,0,0,1.212121212,38.18181818,0,0
+Pv12.158,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.646706587,0,0.61751497,0,91.61676647,0.130988024,0.823353293
+Pv12.159,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.241534989,0,0,61.1738149,1.58013544,0,36.00451467
+Pv12.160,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,98.70594816,0,0,0,0,0,1.294051837
+Pv12.161,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,8.472012103,0,0
+Pv12.162,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,3.551135106,0,93.51788475,0,2.930980145,0,0
+Pv12.163,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.164,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.098901099,0,0,1.098901099,1.978021978,0,1.098901099
+Pv12.165,Harbour seal,2012,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.026769088,0,1.14611927,0,53.52112676,0,0.018877623
+Pv12.166,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,20,0,0
+Pv12.167,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,21.05263158,57.89473684,0,21.05263158
+Pv12.168,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.170,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,27.96760132,0,10.8762894,0,30.85787452,0,25.63696787
+Pv12.171,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.172,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.197730222,0,0,0,1.064859632,0.131820148,0.32955037
+Pv12.173,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,21.73913043,0,0,0,39.13043478,0,17.39130435
+Pv12.174,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,3.603603604,0,0,79.27927928,9.459459459,0,2.252252252
+Pv12.175,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.176,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,40.38208169,0,0,0
+Pv12.177,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,13.58436606,0,0
+Pv12.178,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.98734177,0,1.012658228
+Pv12.179,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,57.55197892,0,42.44802108,0,0,0,0
+Pv12.180,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,16.21064937,0,5.500041751,0,52.11122554,1.73685529,8.684276449
+Pv12.181,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,7.365779136,0,1.473155827,1.054852321,65.40084388,0,8.249672632
+Pv12.182,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,8.819108358,0,1.824643108,0,0,6.690358064,4.257500586
+Pv12.183,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,95.43172143,0,0,0,0,4.568278572,0
+Pv12.184,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.553895021,0,0.457027947,91.45129225,1.391650099,0.073124472,1.096867073
+Pv12.185,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.718597298,0,0.239532433,1.095461659,97.49608764,0.047906487,0.344926703
+Pv12.186,Harbour seal,2012,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.526717557,91.60305344,0,0
+Pv12.187,Harbour seal,2012,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.188,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.589234963,0,0,0,0,0,98.41076504
+Pv12.189,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,24.81715893,0,0,0,0,0,75.18284107
+Pv12.190,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.306981779,0,0,0,1.213960546,0,97.47905767
+Pv12.191,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.322836726,0,0,0,0,0,88.12787262
+Pv12.192,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.449275362,0,0,0,0,0,98.55072464
+Pv12.193,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.180195682,0,0,0,4.330708661,0,82.67807203
+Pv12.194,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,7.352941176,0,89.70588235
+Pv12.195,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,62.56295321,0,0,0,0,0,2.046975867
+Pv12.196,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,1.879699248,7.142857143,2.255639098,11.27819549
+Pv12.197,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.198,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.199,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,4.045022863,0,95.95497714
+Pv12.200,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,3.610108303,0,92.05776173
+Pv12.201,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.200828157,0,0,0,0,0,98.79917184
+Pv12.202,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,1.263297872,0,98.73670213
+Pv12.203,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,94.60693153
+Pv12.204,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,2.806652807,0,86.85031185
+Pv12.205,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,38.39092977,0,0,0,0,0,1.502484769
+Pv12.206,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,1.85840708,0,98.14159292
+Pv12.207,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,7.70123839,0,54.58591331
+Pv12.208,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,94.33962264,2.452830189,3.20754717
+Pv12.209,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.210,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.211,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,90.96459096
+Pv12.212,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,1.35501355,3.52303523,0,91.59891599
+Pv12.213,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,10.66121042,89.33878958
+Pv12.214,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,35.24275649,0,0,0,4.793233083,0,59.96401043
+Pv12.215,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,2.323330106,0,97.67666989
+Pv12.216,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,1.641802674,0,0,0,7.066889769,85.59978432
+Pv12.217,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.218,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,1.364522417,0,98.63547758
+Pv12.219,Harbour seal,2012,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,4.860088365,4.086530336,88.69697482
+Pv12.220,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.354156419,0,0,0,98.42597147,0.183636662,1.036235448
+Pv12.221,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.780067242,0,0,0,18.2320442,3.809893632,58.94595073
+Pv12.222,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.161094961,0,0,0,69.53125,0.127180233,0.652858527
+Pv12.223,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,8.999522899,0,0,0,3.592814371,2.50619625,84.90146648
+Pv12.224,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,1.958228661,17.3931489,0,0,0,0,0.752703513
+Pv12.225,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.984470779,0,0,0,12.95264624,0,86.06288298
+Pv12.226,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,1.182578598,0,0,0,0,0,98.8174214
+Pv12.227,Harbour seal,2012,Jul,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,36,24,40
+Pv12.293,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,2.45398773,0,0,73.89229721,0,10.15678255,13.49693252
+Pv12.294,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.295,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.261406008,0,0,0,94.79166667,0.165769664,0.828848319
+Pv12.296,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.27203027,0.18171861,0,0,28.34710744,0.581499552,3.997809419
+Pv12.297,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.432129514,0,2.428393524
+Pv12.298,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.333845816,0,0.208653635,0,95.0955414,0.292115089,1.585767626
+Pv12.299,Harbour seal,2012,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.326575913,0,0,4.323570432,1.394700139,0.074645923,0.923743297
+Pv12.301,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.293275289,0,0,0,98.22812846,0.342154504,1.075342727
+Pv12.302,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,52.94117647,0,47.05882353
+Pv12.303,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,1.098901099,15.31492721,78.17619705
+Pv12.305,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.138548371,0,0,0,98.4561753,0.237511492,0.930253346
+Pv12.306,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,1.62601626,0,0,0,17.4796748,2.032520325,6.504065041
+Pv12.307,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.223615465,0.134169279,0,0,0,0.178892372,1.408777429
+Pv12.309,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,25.92592593,0,74.07407407
+Pv12.310,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,1.042942858,0,0,0,92.96013571,0.956030953,4.084859527
+Pv12.311,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,2.962962963,0,0,0,9.62962963,5.925925926,11.11111111
+Pv12.312,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,98.08282209,0.419382669,1.497795245
+Pv12.313,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,93.84615385,0,4.210526316
+Pv12.314,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.584174536,0.059915337,0,0,90.30120482,0.239661348,1.677629437
+Pv12.315,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,17.46343593,0,0
+Pv12.316,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,10.71428571,0,0,0,16.07142857,10.71428571,39.28571429
+Pv12.317,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,35.11827321,0,0,0,56.23268698,0.601714962,3.227380248
+Pv12.318,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.528692205,0,0,0,0,0.382458191,36.2772843
+Pv12.319,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.601167984,0,0,0,95.07042254,0,3.727241498
+Pv12.320,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.19458465,0,0,0,92.71545828,0.15566772,0.713477051
+Pv12.321,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.529673349,0,0,0,1.941747573,0.366696934,4.767060138
+Pv12.322,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,98.34307992,0,0,1.656920078
+Pv12.323,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.087015394,0,0,0,3.661971831,0.201223099,6.613169957
+Pv12.324,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.247539457,0.207923243,0,0,92.54941713,1.074270088,4.712926838
+Pv12.325,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,2.808988764,0,7.303370787
+Pv12.326,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0.196860741,0,1.505235602,0,6.80575706
+Pv12.327,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,2.583979328,0,4.134366925
+Pv12.328,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,30.23255814,0,46.51162791
+Pv12.329,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,2.988505747,0,4.137931034
+Pv12.330,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.331,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,1.405283867
+Pv12.332,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,7.156397765,0,0,3.100436681,0,45.38367611,2.176083333
+Pv12.333,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,95.85492228,1.208981002,0,1.208981002
+Pv12.334,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.854234824,0,0,0,12.5,79.01672119,4.057615413
+Pv12.335,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,9.830805134,0,1.108518086
+Pv12.336,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,86.87179487,10.15384615,2.852284306,0.122074668
+Pv12.337,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,2.892252792,0,3.170882301,0,3.781512605,0,0.239385916
+Pv12.338,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,92.44889161,0,0,0,4.036620891,0,3.514487503
+Pv12.339,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,1.809954751,93.4539269,4.736118354
+Pv12.340,Harbour seal,2012,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,96.08041046,3.919589537
+Pv12.341,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,19.56521739,19.56521739,41.30434783
+Pv12.342,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,2.471910112,0,97.52808989
+Pv12.343,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,88.22305452
+Pv12.344,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.262930824,0.041515393,0,0,0,0.096869251,0.78417965
+Pv12.345,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.61163522,0,0,62.10691824,17.29559748,0,4.83490566
+Pv12.346,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.307200786,0,0,0,94.88817891,0.221867235,1.382403539
+Pv12.347,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.455711585,0.045571159,0,0,0,0.151903862,0.744328922
+Pv12.348,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.349,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.260145682,0,0,0,90.47866805,0.104058273,1.560874089
+Pv12.350,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,68.14814815,0,0,5.185185185
+Pv12.351,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,86.8852459,9.471766849,1.4571949,2.18579235
+Pv12.352,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.198841359,0,0,0,4.558948261,0,1.306671788
+Pv12.353,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.059701493,0.788688138,0.015710919,0,67.960199,0.021995287,0.292223095
+Pv12.354,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,12.69230769,86.21794872,0,1.08974359
+Pv12.355,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.236401297,0,0,0,97.98270893,0.204881124,1.481448127
+Pv12.356,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.663979778,0,0,0,1.927194861,78.45439791,8.140009184
+Pv12.357,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,50.4145937,10.61359867,0,38.97180763
+Pv12.358,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,10.96681097,0,0,6.926406926,0,0,0
+Pv12.359,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,87.11111111,1.777777778,8.888888889,2.222222222
+Pv12.360,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,27.74018945,0,0,72.25981055
+Pv12.361,Harbour seal,2012,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,14.03508772,0,0,0
+Pv12.362,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.363,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.364,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,39.01284245,0,0,0,0,0,52.54559911
+Pv12.365,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.067919692,0,0,0,0,0,98.93208031
+Pv12.366,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.367,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,4.252965658,92.31566179
+Pv12.368,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.369,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.403887689,0,0,0,0,0,98.59611231
+Pv12.371,Harbour seal,2012,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.50273224,0,0,0,0,0,98.49726776
+Pv12.373,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,100,0,0,0,0,0,0
+Pv12.374,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,23.99124329,0,0,0,4.591836735,0,68.92338006
+Pv12.375,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,71.34872418,0,0,0,0,0,25.34629405
+Pv12.376,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,54.36093944,0,5.583584865,0,3.014184397,0,35.41889116
+Pv12.377,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,100,0,0,0,0,0,0
+Pv12.378,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.379,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,100,0,0,0,0,0,0
+Pv12.381,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,10.52631579,0,0,0,89.47368421,0,0
+Pv12.383,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.384,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.385,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.386,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,1.012658228
+Pv12.388,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,41.51431788,0,11.02329025,0,0,0,21.66733887
+Pv12.390,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.391,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.392,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,3.926940639,0,0
+Pv12.393,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,98.7628866,0,0
+Pv12.395,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,1.6,0,0,0,97.14285714,0,1.257142857
+Pv12.396,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,86.68549088,0,11.12076455,0,0,2.19374457,0
+Pv12.397,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.0260575,0,0,0,0,1.332406844,0.020846
+Pv12.398,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,19.64809384,0,0,0,80.35190616,0,0
+Pv12.399,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,39.83553261,0,0,0,0,0,60.16446739
+Pv12.401,Harbour seal,2012,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,100,0,0,0,0,0,0
+Pv12.403,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,8.525491855,0,0,0,0,0,91.47450814
+Pv12.404,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,67.01986755,0,0,9.536423841,0,0,0
+Pv12.405,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,98.9519478,0,0,0,0,0,1.048052205
+Pv12.406,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv12.407,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.408,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.409,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,87.135506,0,0,0,0,0,12.864494
+Pv12.410,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,98.44186976,0,1.558130244,0,0,0,0
+Pv12.411,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.412,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,96.74796748
+Pv12.413,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.414,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.415,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.416,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.834175557,0,0,0,0,0,98.16582444
+Pv12.417,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,78.21887273,0,0,0,0,0,21.78112727
+Pv12.418,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.419,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.420,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.445982235,0,0,0,0,0,98.55401776
+Pv12.422,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv12.423,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.424,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,39.23303835,0,0,0,6.85840708,53.90855457
+Pv12.425,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.426,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.427,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv12.428,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.429,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,66.66666667,0,0,0,0,0
+Pv12.430,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,26.66666667
+Pv12.431,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,98.22695035,0,0,0
+Pv12.432,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,43.13531353,0,17.52475248,0,0,38.31683168,1.02310231
+Pv12.433,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,97.69585253,0,0,2.304147465
+Pv12.434,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.435,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.436,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.437,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,9.610066372,0,0,0,0,90.38993363,0
+Pv12.438,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,100,0,0,0,0,0,0
+Pv12.439,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,15.47862611,0,3.28433033,0,0,0,0
+Pv12.440,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,84.21658986,15.78341014,0,0
+Pv12.441,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,7.291666667,0,0,0,0,9.375,0
+Pv12.442,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,5.747126437,0,0,0,8.045977011,10.34482759,0
+Pv12.443,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.444,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.445,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,26.08695652,0,0,0,70.43478261,0,3.47826087
+Pv12.446,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.447,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,100,0,0,0,0,0,0
+Pv12.448,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,2.06185567,0,0,59.79381443,0,0,0
+Pv12.449,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.450,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.451,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,90.77669903,0,0
+Pv12.452,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,95.75,0,0,0
+Pv12.453,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,3.770491803,0,26.8852459
+Pv12.454,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,96.83026585,0,0,0,0,3.169734151,0
+Pv12.455,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,94.73684211,0,0,0,3.349282297,0,0
+Pv12.456,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.56626506,1.044176707,0,0,7.228915663,0,0
+Pv12.457,Harbour seal,2012,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,30.58968059,0,0,0,67.32186732,0,0
+Pv12.459,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv12.460,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,3.805496829,4.651162791,0
+Pv12.461,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,97.94871795,2.051282051,0,0
+Pv12.463,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,13.30798479,12.54752852,26.61596958,0,0,30.41825095,17.11026616
+Pv12.464,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,6.733167082,0,0,0,0,0,0
+Pv12.465,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,1.375515818,98.62448418,0,0
+Pv12.466,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.468,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.469,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.472,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.475,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,20,0,0,0,0,0
+Pv12.476,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,100,0,0,0,0,0,0
+Pv12.477,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,3.868269733,0,0,96.13173027,0,0,0
+Pv12.479,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.480,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.481,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.482,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.483,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,40.5511811,0,0,0
+Pv12.484,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,87.99368088,0,0
+Pv12.485,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.486,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.487,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.488,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,1.666666667,0,98.33333333,0,0
+Pv12.489,Harbour seal,2012,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.491,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,98.98190045,0,0,1.018099548,0,0
+Pv12.492,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,97.12153518,0,0,0,0,0
+Pv12.493,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,100,0,0
+Pv12.494,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.495,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.496,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv12.497,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,9.523809524,0,90.47619048
+Pv12.498,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,2.122370937,97.87762906,0,0,0,0,0
+Pv12.499,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,50.64002498,49.35997502,0,0,0,0
+Pv12.500,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,20.68965517,0,0,13.52785146,0,0,26.52519894
+Pv12.501,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.502,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,90.76923077,0,0,0,9.230769231,0,0
+Pv12.503,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.504,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.505,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.506,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,98.91956783,1.080432173,0,0,0,0,0
+Pv12.507,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv12.508,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.509,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,81.89518264,18.10481736,0,0,0,0
+Pv12.510,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,97.5,0,2.5,0,0
+Pv12.511,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,53.61930295,0,0,0,46.38069705,0
+Pv12.512,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,75.80492424,24.19507576,0,0,0,0,0
+Pv12.513,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,30.72758037,0,0,0,0,69.27241963
+Pv12.514,Harbour seal,2012,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,2.314814815,0,0
+Pv12.516,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.517,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.518,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,24.3567753,12.17838765,10.82523347,0,44.35736677,0,0
+Pv12.519,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,13.33333333,0,0
+Pv12.520,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,30.52254292,0,0
+Pv12.522,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.523,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.524,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,4.928664073,0
+Pv12.526,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.527,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.528,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,19.30379747,0,80.69620253,0,0
+Pv12.530,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.531,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,13.18471005,12.36493534,8.698720623,0,65.75163399,0,0
+Pv12.532,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,82.26466576,0,0
+Pv12.533,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,98.16272966,0,0
+Pv12.534,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.535,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.536,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.537,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,48.53672004,0,0
+Pv12.538,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,25.382263,74.617737,0,0
+Pv12.539,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.540,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.541,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,92,0,0
+Pv12.542,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.543,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,30.02421308,0,0
+Pv12.544,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,26.94524496,73.05475504,0,0
+Pv12.545,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,3.782080144,0,0,0
+Pv12.546,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv12.548,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.549,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,83.9609484
+Pv12.550,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,9.951287404,0,16.49269311,0,0,22.47738344,20.52887961
+Pv12.551,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.732217573,0.941422594,0,0,98.32635983,0,0
+Pv12.552,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,2.005231037,0,0,0,7.06190061,0,79.77332171
+Pv12.553,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,5.882352941,0,0,0,94.11764706,0,0
+Pv12.554,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,1.243048741,0,0
+Pv12.555,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,97.46835443,2.53164557,0,0,0,0,0
+Pv12.556,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,84.90813648,0,0
+Pv12.557,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,84.48275862,0,0
+Pv12.558,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv12.559,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,30.98115891,0,0
+Pv12.560,Harbour seal,2012,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0.441176471,1.071428571,0,0,98.48739496,0,0
+Pv12.561,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,95.10061242,1.57480315,0,0
+Pv12.562,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,94.12470024,0,0
+Pv12.563,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.925798695,0.420817588,5.47062865,0,90.56338028,0.084163518,0
+Pv12.564,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.565,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.566,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.643886564,0.09669921,0.037192004,0,64,0,0
+Pv12.567,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,15.05646173,84.94353827,0,0
+Pv12.569,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,33.90528154,0.4817802,6.278198225,0,0,3.794019071,0
+Pv12.570,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0.227373683,16.85407428,0,0,0,0
+Pv12.571,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv12.572,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv12.573,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,89.34240363,10.65759637,0,0
+Pv12.574,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,51.30559541,0.731707317,0,0,1.951219512,10.88952654,0
+Pv12.575,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,9.48643078,11.0013741,0,0,73.7804878,0,0
+Pv12.576,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,3.154574132,0,0,0,0,0
+Pv12.577,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.578,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,92.1448728,1.164986351,0,0,3.169014085,0,0
+Pv12.579,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.580,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.581,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,90.35087719,0,0,0,2.860411899,6.788710908
+Pv12.582,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv12.583,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv12.584,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,10.34683459,0.182323076,0,0,86.06911447,0,0
+Pv12.585,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,3.626220363,0.540446304,0,0,71.11111111,0,0
+Pv12.586,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0.63835749,37.65006419,0,57.41782647,0,0
+Pv12.587,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,94.19333479,1.277048485,0,0,1.567944251,0,0
+Pv12.588,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,84.61538462,0,0,0,15.38461538,0,0
+Pv12.589,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv12.590,Harbour seal,2012,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0.65993266,0,0,0,0.754208754,0
+Pv12.591,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.592,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.593,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.594,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,1.503759398,0,0
+Pv12.596,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.597,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.598,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.599,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.600,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.601,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.602,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.603,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.987662783,0,0,0,1.782042495,0,0
+Pv12.604,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.994953136,13.26604182,0.442201394,0,85.29680365,0,0
+Pv12.605,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.606,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.607,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,59.01639344,0,0,0,0,0
+Pv12.608,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.609,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.610,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.611,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,5.087719298,0,0,0,0,0,0
+Pv12.612,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.613,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.614,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,60.12658228,0,0,22.99578059,0,0
+Pv12.615,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,10.05291005,0
+Pv12.616,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.617,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.618,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,7.945176143,0.712067673,12.5548774,0,0,0,0
+Pv12.619,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.620,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,97.74011299,0,0,2.259887006,0,0
+Pv12.621,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,83.75,0,0,16.25,0,0
+Pv12.622,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.623,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv12.624,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,58.33047063,41.66952937,0,0,0,0
+Pv12.625,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.838755304,84.2291372,13.9321075,0,0,0,0
+Pv12.626,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,97.2826087,0,0,2.717391304,0,0
+Pv12.627,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.628,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.629,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,6.756756757,0,0
+Pv12.630,Harbour seal,2012,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,4.379562044,0,0,0,0,0
+Pv12.631,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,5.397301349,6.746626687,0,0,0,0,0
+Pv12.632,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,0,0,100,0,0
+Pv12.633,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,3.977413332,82.44609634,0,1.818181818,5.656565657,2.869419618,0
+Pv12.634,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,1.729249012,53.75494071,0,0,0,1.333992095,0
+Pv12.635,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,1.272923409,0,0,0,83.01279088,0
+Pv12.636,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,8.357348703,0,0,0,0,0
+Pv12.637,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0.059131408,2.912221823,1.537416597,0,0,0.059131408,0
+Pv12.638,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0.805436459,64.26076834,0,0,9.730543173,0
+Pv12.640,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,5.339805825,0,0,0,94.66019417,0
+Pv12.641,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,1.332155829,0,0,0,88.36633663,0
+Pv12.642,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,48.36961103,21.51455885,0,0,0,0,0
+Pv12.643,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0.275574277,0.70861957,0,93.0417495,2.991949294,0
+Pv12.644,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,0,0,0,0,0
+Pv12.645,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,1.205767627,87.35116586,0,0,0,0
+Pv12.646,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,3.019100431,0,64.51016636,0,0,2.094886014,20.88724584
+Pv12.647,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,0,0,0,0,18.48341232
+Pv12.648,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,21.39292134,53.65713406,0,0,20.48574446,2.352267725,0
+Pv12.649,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,0,0,0,0,0
+Pv12.650,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,88.71794872,0,0,0,0,0
+Pv12.651,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,46.1626575,0,0,53.8373425,0
+Pv12.652,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,0,0,5.080213904,70.05347594,0
+Pv12.653,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,0,0,100,0,0
+Pv12.654,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,21.23176661,0,0,0,0,0
+Pv12.655,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,72.71261588,0,0,7.496977025,0,0,0
+Pv12.656,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,0,0,0,58.7955626,0
+Pv12.657,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,35.48301215,0,0,0,28.56808274,0
+Pv12.658,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,0,0,0,0,13.1443299,0
+Pv12.659,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,58.16663768,31.57070795,0,0,0,10.26265437,0
+Pv12.660,Harbour seal,2012,Oct,Fall,Comox Breakwater,H0104a,Comox_Harbour,SOG,Estuary,49.6686,-124.9275,0,100,0,0,0,0,0
+Pv12.661,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,98.06763285,0,0,0,1.93236715,0
+Pv12.662,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.663,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.664,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.665,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.666,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,93.09718438,0,6.902815622,0,0,0
+Pv12.667,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.668,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv12.669,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.670,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.671,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.672,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,74.26356589,0,0,24.49612403,0,0
+Pv12.673,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,39.33764136,0,0,0,60.66235864,0
+Pv12.674,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,85.69682152,0,0,0,1.100244499,0
+Pv12.675,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.676,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.677,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.678,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,98.22695035,0,0,1.773049645,0,0
+Pv12.679,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.680,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,22.30215827,77.69784173,0,0,0,0,0
+Pv12.681,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,98.66573034,0,0,0,0,0
+Pv12.682,Harbour seal,2012,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv12.683,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,72.9281768,0,0,1.657458564,0,0
+Pv12.684,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.685,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,16.5915012,0,0,80.59163059,2.816868204,0
+Pv12.686,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.687,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.688,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,98.2832618,0,0,1.716738197,0,0
+Pv12.689,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,2.75862069,0,0,8.965517241,0,0
+Pv12.690,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.691,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.692,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,71.60109077,0,0,16.36151149
+Pv12.694,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.695,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,95.23809524,0,0,0,0,0
+Pv12.696,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,42.51824818,0,39.96350365,17.51824818,0,0
+Pv12.698,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,97.89029536,0,0,0,2.109704641,0
+Pv12.700,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.88,0,0
+Pv12.701,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.702,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.703,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv12.704,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv12.705,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.706,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,96.68049793,0,0,0,0,0
+Pv12.707,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,27.97501454,0,0,14.58052939,0,8.767919508
+Pv12.708,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.709,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.710,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv12.711,Harbour seal,2012,Nov,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,19.8630137,80.1369863,0,0,0,0,0
+Pv12.712,Harbour seal,2012,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv12.713,Harbour seal,2012,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,96.68508287,0,0,3.314917127,0,0
+Pv12.714,Harbour seal,2012,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv12.715,Harbour seal,2012,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv12.716,Harbour seal,2012,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv12.717,Harbour seal,2012,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv13.002,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.003,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.005,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,94.0775458,0,0
+Pv13.006,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.007,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.008,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,62.56603774,0,0
+Pv13.009,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.010,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.011,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0.107814527,0,0,0,0,0
+Pv13.012,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,72.96650718,0,27.03349282
+Pv13.014,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.015,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.016,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.020,Harbour seal,2013,Apr,Spring,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv13.021,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,36.31578947,0,0,0,63.68421053,0,0
+Pv13.022,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.023,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.024,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.025,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.026,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.027,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,25.61307902
+Pv13.028,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,7.147147147,0,45.64564565,0,0,0,47.20720721
+Pv13.030,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.031,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,4.026845638,0,95.97315436
+Pv13.032,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.033,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,93.60576923,0,0,6.394230769
+Pv13.034,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,100,0,0,0,0
+Pv13.035,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,5.040871935,0,0
+Pv13.036,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,72.01646091,0,23.45679012,0,0
+Pv13.037,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.038,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,78.08219178,0,21.91780822,0,0
+Pv13.041,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,1.754385965,0,0
+Pv13.042,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.043,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,90.98712446,0,9.012875536
+Pv13.044,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,21.31128897,0,36.86345581,0,27.95600367,13.86925155,0
+Pv13.045,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.046,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0.1448553,6.663343821,0,0,89.67789165,0,0
+Pv13.047,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.048,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,6.413301663,0,0,0,0,0
+Pv13.049,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.051,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,1.71990172,0,0,0,0,0
+Pv13.052,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.053,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.054,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,92.32884245,0,0
+Pv13.056,Harbour seal,2013,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,88.40399002,0,0,0
+Pv13.057,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.058,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,18.44660194,0,0
+Pv13.061,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.063,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.065,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,10.55319149,0,0
+Pv13.068,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.069,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.070,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.79759519,0,0
+Pv13.074,Harbour seal,2013,Apr,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.075,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,93.46405229,0,0,2.493343016,0,0,0
+Pv13.076,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.077,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.078,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.079,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.080,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.081,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.083,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.084,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.085,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.086,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.088,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.089,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.090,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.091,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.092,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.093,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.094,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv13.095,Harbour seal,2013,Apr,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.097,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.031814273,0,0
+Pv13.100,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.101,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.105,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.106,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,47.65625,0,0
+Pv13.107,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,37.88819876,0,0,0,62.11180124,0,0
+Pv13.108,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.109,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.112,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,72.90322581,0,0
+Pv13.113,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,5.797101449,0,0,0,0
+Pv13.115,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.116,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,11.44303797,0,0
+Pv13.117,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.118,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.120,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,25.89473684,0,0
+Pv13.122,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.123,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.124,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,66.94668821,0,33.05331179
+Pv13.125,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,86.06382979,0,0
+Pv13.126,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.127,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,4.633084577,0,95.36691542
+Pv13.128,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,93.9867709,0,0
+Pv13.129,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.130,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,88.96174863,0,0
+Pv13.131,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,3.576537911,0,0
+Pv13.132,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,90.15565839,0,0
+Pv13.133,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,1.860465116,4.186046512,0,0
+Pv13.134,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,11.30480718,17.43264659,52.24511358,0,0,0,0
+Pv13.135,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,19.97723392,35.8850313,0,0
+Pv13.136,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,4.897518878,0,0,0
+Pv13.137,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,1.565995526,96.86800895,0,0
+Pv13.138,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,49.75144988,0,0,0
+Pv13.139,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,2.995169082,91.98067633,0,0
+Pv13.141,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.142,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,94.90597477,0,0,0,0,0,0
+Pv13.143,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,1.519468186,0,0
+Pv13.144,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,100,0,0
+Pv13.145,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,44.56886898,1.231802912,0,0
+Pv13.146,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.147,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,7.487922705,0,0,0,0,0,0
+Pv13.148,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.149,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.150,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.152,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.153,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,0
+Pv13.154,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.7654321,0,0
+Pv13.155,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.27388535,95.54140127,0,0
+Pv13.156,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.45261122,0,0
+Pv13.157,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.655629139,0,0
+Pv13.158,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.159,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,27.73998488,0,0,0,1.058201058,71.20181406,0
+Pv13.160,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,57.58998435,0,23.31768388,0,0,1.408450704,0
+Pv13.161,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,20.83333333,33.33333333,0,0
+Pv13.162,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,23.07692308,53.84615385,0,0
+Pv13.163,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.88059701,0,1.119402985
+Pv13.164,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.165,Harbour seal,2013,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.168,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.169,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,92.95774648,0,0
+Pv13.170,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,33.33333333,0,0
+Pv13.172,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,48.4004128
+Pv13.174,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.175,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.176,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.177,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.178,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.179,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.180,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.181,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.182,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,70.09727016,0,0
+Pv13.183,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,2.194357367,0,0
+Pv13.184,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,1.829268293,2.43902439,0,0
+Pv13.185,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.186,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.187,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,94.81481481,0,0
+Pv13.188,Harbour seal,2013,May,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,46.37865311,0,0,53.62134689,0,0
+Pv13.189,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,98.75621891,1.243781095,0,0
+Pv13.191,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,14.0175219,0,0
+Pv13.192,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,1.769911504,0,0
+Pv13.193,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,61.33333333,0,0
+Pv13.195,Harbour seal,2013,May,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,27.54409769,0,0,0
+Pv13.196,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.197,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.53249476,0,0
+Pv13.198,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.199,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,16.84370258,0,0
+Pv13.200,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.201,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,6.944444444,0,0
+Pv13.202,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.203,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.204,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.205,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,1.342281879,1.174496644,0,0
+Pv13.206,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.207,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.211,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.212,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.213,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,21.12676056,50.35211268,23.23943662,1.408450704,2.112676056,0,1.76056338
+Pv13.214,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.76923077,0,0
+Pv13.215,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.217,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,32.45436105,0,0
+Pv13.218,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.220,Harbour seal,2013,Jun,Spring,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.221,Harbour seal,2013,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,84.26116838
+Pv13.222,Harbour seal,2013,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,16.96357878,0,17.08234363,8.808392716,9.045922407,0,20.78384798
+Pv13.223,Harbour seal,2013,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,1.8735363,0,0,0
+Pv13.224,Harbour seal,2013,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,4.301075269,0,0,0,4.325513196,3.445747801,84.70185728
+Pv13.225,Harbour seal,2013,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,2.735978112,0,0,1.094391245,0,0,0
+Pv13.226,Harbour seal,2013,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,3.716216216,0,0,1.351351351,93.58108108,0,0
+Pv13.227,Harbour seal,2013,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,98.93048128,0,0,1.069518717,0,0,0
+Pv13.228,Harbour seal,2013,Jun,Spring,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,2.304147465,0,0,7.373271889,1.843317972,0,0
+Pv13.230,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,71.42857143,28.57142857,0,0
+Pv13.231,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,24.77375566,0,0,75.22624434,0,0
+Pv13.233,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.234,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.558846454,0,0,0
+Pv13.236,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.542416452,0,0,74.29305913
+Pv13.238,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.677852349,98.32214765,0,0
+Pv13.239,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.240,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,11.39746723,88.60253277,0,0
+Pv13.241,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.07398568,98.92601432,0,0
+Pv13.242,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.243,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.673640167,88.49372385,0,0
+Pv13.244,Harbour seal,2013,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.247,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.248,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,93.67088608,0,0,6.329113924
+Pv13.249,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.251,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,52.11267606,0,0
+Pv13.252,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.253,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.254,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,2.352941176,0,0,0
+Pv13.257,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,7.027027027,2.162162162,90.81081081,0
+Pv13.259,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,10.81081081,89.18918919,0,0
+Pv13.260,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,75.86206897,24.13793103,0,0,0
+Pv13.262,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.263,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,31.78005592,0,0
+Pv13.264,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.265,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,2.011494253,0,0,0
+Pv13.267,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,9.756097561,90.24390244,0,0
+Pv13.268,Harbour seal,2013,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,2.100840336,71.42857143,0,0
+Pv13.269,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,82.43386243,0,4.497354497,6.507936508
+Pv13.270,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.271,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.272,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.273,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.276,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.277,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.278,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,98.65410498,0,0,1.34589502,0,0,0
+Pv13.279,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,100,0,0,0,0,0
+Pv13.281,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,1.089324619,0,0,19.60784314
+Pv13.283,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.284,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,45.45454545,27.27272727,0,27.27272727
+Pv13.285,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,97.80487805,2.195121951,0,0,0
+Pv13.286,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.287,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,35.02188868,64.97811132,0,0
+Pv13.288,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.290,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,97.98994975,0,0,0
+Pv13.292,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.293,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.294,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.295,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.296,Harbour seal,2013,Jul,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.299,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,5.844155844,0,0,0
+Pv13.300,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,1.183898974,0,0,0
+Pv13.302,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,8.849557522,0,0,0
+Pv13.303,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,66.66666667,33.33333333,0,0
+Pv13.304,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,100,0,0,0
+Pv13.307,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,33.01886792,0,2.358490566,64.62264151,0,0
+Pv13.309,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,2.277904328,97.72209567,0
+Pv13.310,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,5.454545455,25.45454545,0,0
+Pv13.311,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,78.04878049,0,0,0,0,0,21.95121951
+Pv13.313,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv13.318,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,87.40890688,0,0,0,0,0,12.59109312
+Pv13.319,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,83.15455875,0,7.337883959,0,0,0,9.507557289
+Pv13.320,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,2.071005917,0
+Pv13.321,Harbour seal,2013,Jul,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,4.558910598,0,0,0,0,0,95.4410894
+Pv13.322,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv13.323,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv13.325,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,1.913875598,9.090909091
+Pv13.326,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,7.075767063,92.92423294
+Pv13.327,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv13.328,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,53.57142857,0,43.19727891,3.231292517,0
+Pv13.330,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv13.331,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,3.636363636,3.03030303
+Pv13.332,Harbour seal,2013,Aug,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv13.333,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,97.09090909,1.454545455,1.454545455
+Pv13.334,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.335,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,4.716981132,8.490566038
+Pv13.336,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.337,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.338,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,98.33333333,0,1.666666667,0
+Pv13.339,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,3.398058252,0,0,35.5987055,61.00323625
+Pv13.340,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,96.74556213,1.183431953,2.071005917
+Pv13.341,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.342,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.343,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.344,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,2.248093135,0,0
+Pv13.345,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.346,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.347,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,50.96910963,12.7195639,13.96123561,0,4.724409449,0,0
+Pv13.349,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.350,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.351,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.66220736,0,1.337792642
+Pv13.353,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,10.18050542,0,0,0,61.15523466,0,28.66425993
+Pv13.354,Harbour seal,2013,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,81.94221509,0,0,5.939004815,0,0,0
+Pv13.355,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,38,62
+Pv13.356,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,19.65065502,52.83842795,20.52401747
+Pv13.357,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.358,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.359,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.739130435,0,0,0,1.739130435,94.7826087,1.739130435
+Pv13.361,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,29.5620438,0,1.824817518
+Pv13.362,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,1.70212766,0,98.29787234,0
+Pv13.363,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.364,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,2.04778157,16.04095563,81.9112628
+Pv13.365,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,18.39592616
+Pv13.366,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.65591398,0,1.344086022
+Pv13.367,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.368,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.74563591,0,0,1.246882793,1.74563591,0,0
+Pv13.370,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,1.459854015,0,1.824817518,0
+Pv13.371,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,79.8245614,0,0,0
+Pv13.372,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.373,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,80.92485549,17.6300578,0,1.445086705
+Pv13.374,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.375,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.376,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,2.898550725,0
+Pv13.377,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,100,0,0,0
+Pv13.378,Harbour seal,2013,Aug,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.379,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv13.380,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,98.99749373,1.002506266,0
+Pv13.381,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv13.382,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv13.383,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv13.385,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,1.568627451
+Pv13.386,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.387,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.388,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,69.4417238,30.5582762
+Pv13.389,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv13.390,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.391,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,5.921787709,0,0,72.17877095,21.89944134,0
+Pv13.392,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.393,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv13.394,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,1.317957166,0,0,0,1.42778693,1.42778693,95.82646897
+Pv13.395,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.396,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,33.15972222,0,0
+Pv13.397,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,12.12121212,0,0,0,87.87878788,0,0
+Pv13.398,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,77.04473565,22.95526435
+Pv13.399,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,74.81481481,25.18518519
+Pv13.400,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,3.75,0,96.25
+Pv13.401,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,69.89247312,30.10752688
+Pv13.402,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.406,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.407,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,7.692307692,0
+Pv13.408,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,8.333333333,0,0
+Pv13.409,Harbour seal,2013,Aug,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.410,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.411,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,1.364522417,98.63547758,0
+Pv13.412,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,68.06387226,31.93612774
+Pv13.413,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,7.20260223,0,0,0,92.79739777
+Pv13.414,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,2.093718843,0,1.470588235,0,0,92.84646062,3.589232303
+Pv13.415,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,5.476864967,0,0,94.52313503,0
+Pv13.416,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,84.60641399,14.16909621
+Pv13.417,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,56.41025641,43.58974359
+Pv13.418,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,94.62365591,5.376344086
+Pv13.419,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,37.15012723,0,0,0,0,62.84987277,0
+Pv13.420,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.421,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.422,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,59.77591036,40.22408964
+Pv13.423,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.674008811,0,1.233480176,1.321585903,0,95.77092511,0
+Pv13.424,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.425,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.426,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,13.3248731,0,11.04060914,0,0,74.36548223,1.269035533
+Pv13.427,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.428,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.429,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.430,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.431,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.432,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.389462099,0,0,0,0,0,98.6105379
+Pv13.433,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.272084806,0,12.72084806,0,0,42.8975265,43.10954064
+Pv13.434,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,61.20689655,0,0,0,0,36.20689655,2.586206897
+Pv13.435,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.436,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,38.46153846,61.53846154
+Pv13.437,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,100,0,0,0,0,0,0
+Pv13.438,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.439,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.440,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,19.43521595,80.56478405
+Pv13.441,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,80.52631579,19.47368421
+Pv13.442,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.443,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,98.78345499,0
+Pv13.444,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.445,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.446,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,97.72727273,2.272727273
+Pv13.447,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,0,100
+Pv13.448,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,60,35.76642336
+Pv13.449,Harbour seal,2013,Sep,Summer,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,0,100,0
+Pv13.451,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,21.10091743,74.31192661
+Pv13.452,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.453,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,33.33333333,0,66.66666667,0
+Pv13.454,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.455,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,13.8516288,0,0
+Pv13.456,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.457,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.458,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,8.163265306,0
+Pv13.459,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,9.523809524,0,0,0,0,45.23809524,0
+Pv13.460,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,6.992230855,0,0,0,6.770255272,19.86681465,22.49352571
+Pv13.461,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,98.91745602,0,0,0,0,1.082543978,0
+Pv13.462,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.463,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,46.79802956,46.30541872,4.926108374,0
+Pv13.464,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,91.51917404,8.480825959,0,0
+Pv13.466,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.467,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,60.54230949,0,0,0,0,39.45769051,0
+Pv13.468,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.469,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,2.045454545,0
+Pv13.472,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.474,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.215805471,98.78419453,0,0
+Pv13.475,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.477,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,30.59701493,0,0,0
+Pv13.478,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,98.78172589,0,0,0,0,1.218274112,0
+Pv13.479,Harbour seal,2013,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,2.358490566,0,95.28301887,2.358490566
+Pv13.480,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.481,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.31730769,1.682692308,0
+Pv13.482,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,5.128205128,0
+Pv13.483,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.4375,1.5625,0
+Pv13.484,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.486,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.487,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.488,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.489,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.490,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,5.167173252,0
+Pv13.492,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,25.16411379,74.83588621,0
+Pv13.493,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,98.11320755,0,1.886792453,0
+Pv13.494,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.495,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.496,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,56.36792453,43.63207547,0
+Pv13.497,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.498,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,8.165322581,0,0,0,0,0,0
+Pv13.500,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,8.888888889
+Pv13.501,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,51.5936255,0,0,0,0,2.788844622,2.589641434
+Pv13.502,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,2.702702703,0,35.81081081,0
+Pv13.503,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.504,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.666666667,0,0,0,0,97,1.333333333
+Pv13.505,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,100,0
+Pv13.506,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,98.4962406,1.503759398,0
+Pv13.507,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.508,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.509,Harbour seal,2013,Sep,Summer,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,11.97183099,0,0,16.90140845,71.12676056,0
+Pv13.510,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.511,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,5.013927577,0,0,1.671309192,92.2005571,0
+Pv13.512,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,22.22222222,0,0,77.77777778,0,0
+Pv13.513,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,8.347529813,0,0,1.873935264,89.77853492,0
+Pv13.514,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,7.52688172,0,0,9.677419355,82.79569892,0
+Pv13.515,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,18.6440678,32.20338983,0,0,40.6779661,8.474576271,0
+Pv13.516,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,36.7826905,0,0,63.2173095,0,0
+Pv13.517,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,20,0,0,12.85714286,8.571428571,0
+Pv13.518,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,1.427115189,0,0,0,98.57288481,0
+Pv13.519,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,0,0
+Pv13.520,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,98.94127048,1.058729525,0,0,0,0,0
+Pv13.521,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,3.495440729,0,0,3.191489362,93.31306991,0
+Pv13.522,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,41.37931034,0,0,37.93103448,20.68965517,0
+Pv13.523,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.525,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,15.83333333,0,0,9.166666667,4.166666667,0
+Pv13.526,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,1.886792453,4.905660377,0,0,3.773584906,89.43396226,0
+Pv13.527,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,3.149606299,0,0,4.199475066,91.60104987,0
+Pv13.528,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,1.693404635,0,0,1.426024955,96.88057041,0
+Pv13.529,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,7.272727273,27.27272727,0,0,36.36363636,21.81818182,0
+Pv13.530,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,1.099332548,0,0,0,98.90066745,0
+Pv13.531,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,4.575163399,0,0,6.535947712,2.614379085,0
+Pv13.532,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,0,100,0
+Pv13.533,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,15.49295775,0,0,8.450704225,69.01408451,0
+Pv13.534,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,2.985074627,0,1.990049751,4.228855721,90.7960199,0
+Pv13.535,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,1.746724891,0,0,0,98.25327511,0
+Pv13.536,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,47.22222222,0,0,33.33333333,19.44444444,0
+Pv13.537,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,1.585014409,0,0,51.87319885,1.296829971,0
+Pv13.538,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,14.41441441,0,0,3.603603604,81.98198198,0
+Pv13.539,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,1.29477773,0,0,0,98.70522227,0
+Pv13.540,Harbour seal,2013,Sep,Summer,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,36.36363636,0,0,34.09090909,20.45454545,0
+Pv13.541,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,96.9571231,0,0,1.106500692,1.93637621,0
+Pv13.542,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,85.71001495,0,0,13.03437967,1.255605381,0
+Pv13.543,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,98.94685677,0,0,0,1.053143227,0
+Pv13.544,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv13.545,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,92.78846154,0,0,3.365384615,2.644230769,0
+Pv13.546,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,98.30747532,0,0,0,1.692524683,0
+Pv13.547,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,1.070663812,91.64882227,0,0,3.211991435,2.997858672,0
+Pv13.548,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,98.55072464,0,0,0,1.449275362,0
+Pv13.549,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,80.35294118,0,0,0,1.058823529,0
+Pv13.550,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,98.85696633,0,0,0,1.143033673,0
+Pv13.551,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,26.66666667,0,0,46.66666667,26.66666667,0
+Pv13.552,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,0,0,0,97.88838612,0,0
+Pv13.553,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv13.554,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,21.66172107,31.15727003,0,0,5.341246291,40.65281899,0
+Pv13.555,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,33.33333333,56.28415301,0,0,0,0
+Pv13.556,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,73.6631016,0,0,0,26.3368984,0
+Pv13.557,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,100,0,0,0,0,0
+Pv13.558,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,97.23145072,0,0,1.218161683,1.550387597,0
+Pv13.559,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,0,91.9504644,0,0,5.572755418,2.476780186,0
+Pv13.560,Harbour seal,2013,Oct,Fall,Fraser,H0565a,Roberts_Bank_(Reifel_Isl_Channels),SOG,Estuary,49.1204,-123.2104,5.263157895,51.31578947,0,0,18.42105263,10.52631579,0
+Pv13.561,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.563,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.766784452,28.26855124,67.13780919,0,1.413427562,1.413427562,0
+Pv13.564,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.565,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv13.566,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.567,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,13.15789474,50,10.52631579,0,26.31578947,0,0
+Pv13.569,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.570,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.572,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.023308698,0,97.27117681,0,1.705514497,0,0
+Pv13.573,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,28.57142857,0,0,42.85714286,28.57142857,0
+Pv13.574,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,10.52631579,0,0,78.94736842,10.52631579,0
+Pv13.575,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,95.39473684,0,0,2.631578947,1.973684211,0
+Pv13.576,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,6,0,0,94,0,0
+Pv13.579,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,1.184834123,24.64454976,0,0,0,0
+Pv13.580,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,100,0
+Pv13.581,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.582,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,60,0,0,40,0,0
+Pv13.584,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,34.22982885,63.32518337,1.222493888,0
+Pv13.585,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,85.89211618,0,1.659751037,10.78838174,1.659751037,0
+Pv13.586,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.587,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,1.302681992,0,0,0,0,0
+Pv13.588,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv13.589,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.590,Harbour seal,2013,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv13.591,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,0,0,0
+Pv13.592,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.593,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,61.79039301,0,0,1.200873362,0,0
+Pv13.594,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.595,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.596,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,4.906333631,0,0,95.09366637,0,0
+Pv13.597,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,93.08300395,0,0,0,1.482213439,0,0
+Pv13.598,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,25.67421791,0,0,0,30.90614887,0
+Pv13.599,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,1.762114537,83.70044053,0,0,11.30690162,3.230543319,0
+Pv13.600,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,19.56521739,50,0,19.56521739,10.86956522,0
+Pv13.601,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,1.279317697,0,0,0,1.918976546,0
+Pv13.602,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,1.438848921,0,0,96.4028777,2.158273381,0
+Pv13.603,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,28.88649812,71.11350188,0,0
+Pv13.604,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,92.95436349,0,0,1.761409127,5.284227382,0
+Pv13.605,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,100,0,0
+Pv13.606,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,2.739726027,0,93.15068493,0,4.109589041,0,0
+Pv13.607,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,7.951408062,0,0
+Pv13.608,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,0,0,0,96.75,0,0
+Pv13.609,Harbour seal,2013,Oct,Fall,Comox,H1474,Union Bay,SOG,Estuary,49.6016,-124.8904,0,31.02362205,15.7480315,0,49.92125984,0,0
+Pv13.610,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,68,0,5.333333333,9.333333333,0,0
+Pv13.612,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,6.177370031,0,0,91.55963303,0,1.22324159
+Pv13.613,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,25.10121457,0,0,73.07692308,0,0
+Pv13.614,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,97.69865393,0,0
+Pv13.615,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,98.5915493,0,0
+Pv13.616,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,15.07454445,0,0,84.92545555,0,0
+Pv13.617,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,95.32374101,0,1.438848921,0,0,0
+Pv13.618,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,51.64556962,0,0,48.35443038,0,0
+Pv13.620,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,22.22222222,0,0,76.65056361,0,0
+Pv13.621,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,6.070549631,0,0,92.69893355,0,0
+Pv13.622,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,51.78459612,0,46.90043832,0,0
+Pv13.623,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,100,0,0
+Pv13.624,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,13.82978723,0,0,85,0,0
+Pv13.625,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,36,18.85714286,0,38.85714286,0,0
+Pv13.626,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,1.577287066,6.309148265,0,0
+Pv13.627,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,86.13376835,0,0
+Pv13.628,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,0,98.84678748,0,0
+Pv13.629,Harbour seal,2013,Oct,Fall,Belle Chain,H0069,Belle_Chain,SOG,Estuary,48.8323,-123.1984,0,0,0,2.992957746,97.00704225,0,0
+Pv13.630,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,98.69888476,0,0,0
+Pv13.631,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,97.5,0,0
+Pv13.632,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,98.83616831,0,0,0,0,0
+Pv13.633,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.634,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,98.9010989,0,0,0
+Pv13.635,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,92.64705882,0,2.450980392,0,0,0
+Pv13.636,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,96.78972713,0,0,1.284109149,0,0
+Pv13.637,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,73.68421053,0,4.385964912,4.385964912,0,0
+Pv13.638,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.640,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv13.641,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,97.02857143,0,0,0
+Pv13.642,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,93.46938776,1.224489796,0,0
+Pv13.643,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,3.246753247,0,87.66233766,2.597402597,0,0
+Pv13.644,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,57.34126984,0,0,40.47619048,0,0
+Pv13.645,Harbour seal,2013,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,92.42424242,2.525252525,0,0
+Pv14.001,Harbour seal,2014,Apr,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.002,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.003,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.077943615,98.92205638,0,0
+Pv14.004,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.005,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,95.96915528,4.030844725,0,0
+Pv14.006,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,35.87210347,0,0,0
+Pv14.007,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,6.964809384,1.686217009,0,0
+Pv14.008,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.610305958,96.77938808,0,0
+Pv14.009,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,5.21609538,1.341281669,0,0
+Pv14.010,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,29.04984424,1.947040498,0,0
+Pv14.012,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,2.425876011,2.69541779,0,0
+Pv14.013,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.014,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,87.55890669,2.7332705,0,0
+Pv14.015,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.927820985,0,0.21831082,4.584527221,64.46991404,0,0
+Pv14.017,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,4.160363086,0,0
+Pv14.018,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.466666667,96.53333333,0,0
+Pv14.019,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.452784504,2.179176755,0,0
+Pv14.020,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,3.846153846,0,0,2.097902098,4.545454545,0,0
+Pv14.021,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.271186441,71.50423729,0,0
+Pv14.022,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,8.903924222,0,0
+Pv14.023,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,9.589041096,15.06849315,0,0
+Pv14.024,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,5.230769231,0,0,2.769230769,6.461538462,0,0
+Pv14.025,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,24.15458937,0,0
+Pv14.026,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.277275146,1.543374135,0,0
+Pv14.027,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.523297491,24.82078853,0,0
+Pv14.028,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.029,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,8.806262231,0,0
+Pv14.031,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,2.467532468,87.79220779,0,0
+Pv14.032,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,8.633093525,12.94964029,0,0
+Pv14.033,Harbour seal,2014,May,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.482479784,96.49595687,0,0
+Pv14.034,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,98.86990802,1.130091984,0,0
+Pv14.035,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,92.6746167,5.451448041,0,0
+Pv14.036,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,97.53867792,1.230661041,0,0
+Pv14.037,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,83.53128621,0,0,0
+Pv14.038,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,2.180339985,0,0
+Pv14.039,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.040,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,9.933774834,10.59602649,0,0
+Pv14.041,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,94.80328214,0,0,0
+Pv14.042,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,12.93949305,87.06050695,0,0
+Pv14.044,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.81278539,0,0
+Pv14.046,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.71638142,0,0
+Pv14.047,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.048,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,14.46893788,0,0
+Pv14.049,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,6.040268456,24.83221477,0,0
+Pv14.050,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.051,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,4.934729594,0,0
+Pv14.052,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.93565554,0,0
+Pv14.053,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,79.45841393,0,0,0,20.54158607,0,0
+Pv14.055,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,65.47085202,0,0,0
+Pv14.056,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.503759398,0,0,0,98.4962406,0,0
+Pv14.057,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,3.174603175,89.28571429,0,0
+Pv14.058,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,5.784061697,0,0,0,2.956298201,0,0
+Pv14.059,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,4.255319149,31.38297872,0,0
+Pv14.060,Harbour seal,2014,Jun,Spring,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,93.78078818,0,0,0
+Pv14.061,Harbour seal,2014,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,21.14496768,77.46999077,0,0
+Pv14.062,Harbour seal,2014,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.186598418,0,0
+Pv14.063,Harbour seal,2014,Jun,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.157107816,2.524598871,63.0289059,0,25.92592593,0,0
+Pv14.064,Harbour seal,2014,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.112693609,0,12.39136064,0,7.723577236,0,0.354038875
+Pv14.065,Harbour seal,2014,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,11.81818182,1.73553719,0,0
+Pv14.066,Harbour seal,2014,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.491525424,0,0
+Pv14.067,Harbour seal,2014,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,33.16138541,0,0
+Pv14.068,Harbour seal,2014,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,5.619834711,92.39669421,0,0
+Pv14.069,Harbour seal,2014,Jul,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,46.74922601,0,0
+Pv14.070,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.444043321,0,0
+Pv14.071,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,96.6966967,0,0,0
+Pv14.072,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,55.87642713,0,0
+Pv14.073,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,2.5,94.28571429,0,0
+Pv14.074,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,98.09372518,1.906274821,0,0
+Pv14.075,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,7.213930348,0,0
+Pv14.076,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,88.64864865,7.927927928,0,0
+Pv14.077,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.638784568,0,0
+Pv14.078,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,75.99451303,0,0
+Pv14.079,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.080,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.121605667,0,0,0
+Pv14.081,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,5.10904685,0,0
+Pv14.082,Harbour seal,2014,Aug,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,9.97664331,0,0
+Pv14.083,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.084,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,54.85862206,0,0
+Pv14.085,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.134495145,0,0,1.524032825,0,0,96.28637238
+Pv14.086,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,95.97652976,0,0
+Pv14.087,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,87.34015345,0,0,0,5.498721228,0,0
+Pv14.088,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.089,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,47.77858206,0,1.830028505,0,12.23091977,0,0
+Pv14.090,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,94.96402878,0,0,0
+Pv14.091,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.342281879,59.39597315,0,0
+Pv14.092,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,6.632355797,3.986210915,0,69.85294118,0,1.747912216,12.63352107
+Pv14.093,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,4.109317323,0,11.06816126,0,16.15667075,0,0
+Pv14.095,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.096,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,96.68016194,1.619433198,0,0
+Pv14.097,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.098,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,66.18329466,0,0
+Pv14.099,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.100,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.101,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.102,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,95.1486698,0,0
+Pv14.103,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,85.9430605,1.423487544,0,0
+Pv14.104,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.105,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,34.52138493,50.71283096,0,0
+Pv14.106,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,71.31147541,28.68852459,0,0
+Pv14.107,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,96.62162162,0,0,0,1.801801802,0,0
+Pv14.108,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,98.88412017,1.115879828,0,0,0,0,0
+Pv14.109,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,97.05438066,0,0
+Pv14.110,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,77.33870968,0,0
+Pv14.111,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.112,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.493133184,1.229639093,0,53.15594059,42.14108911,0,0
+Pv14.113,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.23364486,0,0
+Pv14.114,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,8.205590622,0,0
+Pv14.115,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,3.244274809,0,0,0
+Pv14.116,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,77.67911819,0,0
+Pv14.117,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,1.707132018,0,0
+Pv14.118,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.119,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.120,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,97.2520908,0,0
+Pv14.121,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.122,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,96.81039575,3.189604253,0,0
+Pv14.123,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.124,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.538173437,91.6352583,0,0,0,0,0
+Pv14.125,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.126,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,96.02813405,3.97186595,0,0
+Pv14.127,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,33.42192691,0,0
+Pv14.128,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,4.928806134,0,0
+Pv14.129,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.130,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,77.16894977,0,0,0,22.83105023,0,0
+Pv14.131,Harbour seal,2014,Sep,Summer,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,25.23529412,0,0
+Pv14.132,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.133,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.134,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,97.05128205,0,0,0,2.948717949,0,0
+Pv14.135,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.654740608,0,0,0,15.69767442,0,0
+Pv14.136,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.137,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.138,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,58.95522388,0,0
+Pv14.139,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.08892922,23.95644283,0,0
+Pv14.140,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,97.2516233,1.136841505,0,0,0,0,0
+Pv14.141,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,93.03730694,0.945501087,0,0,0,0,0
+Pv14.142,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,9.352517986,0,0
+Pv14.143,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.144,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,98.77603215,1.223967848,0,0,0,0,0
+Pv14.145,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.765048887,0.340021727,0,0,0,0,0
+Pv14.146,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,25.13901083,0,0,0
+Pv14.147,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.148,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,97.88732394,0,0,0,0,0,0
+Pv14.149,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,77.2420009,0,0
+Pv14.150,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.151,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,91.81718664,0,0
+Pv14.152,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,86.13607189,0,0
+Pv14.153,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.154,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,100,0,0,0,0,0,0
+Pv14.155,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.156,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,16.72256828,0,0,0
+Pv14.157,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.158,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,81.90618019,0,0
+Pv14.159,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,87.83068783,0,0
+Pv14.160,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.043296818,0.625978091,0,0,1.930099113,0,0
+Pv14.161,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.162,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.163,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,13.39570427,59.38594989,25.2695495,0,1.948796332,0,0
+Pv14.164,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,4.734219269,95.26578073,0,0
+Pv14.165,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.166,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,3.343959339,0.132534974,1.274374748,0,85.2838934,0,0
+Pv14.167,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,2.234761162,0.1010696,0,0,58.79241957,0,0
+Pv14.168,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,98.90246428,1.097535722,0,0,0,0,0
+Pv14.169,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.170,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,2.250460762,0.116403143,0,0,51.99211045,0,0
+Pv14.171,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,1.899148657,61.03470858,0,0
+Pv14.172,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.174,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.175,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.176,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,3.317218779,0.044125758,0,96.63865546,0,0,0
+Pv14.177,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,98.275279,1.724721001,0,0
+Pv14.178,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,89.76724691,5.753251948,0,0,1.179941003,2.119619139,0
+Pv14.179,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,4.688700999,44.19677171,0,0
+Pv14.180,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.90459259,95.61606857,0,0,1.446280992,0,0
+Pv14.181,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,95.42709232,4.572907679,0,0
+Pv14.182,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.003002484,94.74791327,0,0,4.249084249,0,0
+Pv14.184,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,98.95876718,0,0
+Pv14.185,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,92.94871795,0,0,7.051282051
+Pv14.186,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.355411849,97.45411196,0,0,1.19047619,0,0
+Pv14.187,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,96.77152318,0,3.228476821,0,0,0
+Pv14.188,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.62601626,98.37398374,0,0,0,0,0
+Pv14.189,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.190,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.191,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,95.81218274,4.187817259,0,0
+Pv14.192,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,75.2965806,0,0,0,1.465457083,0,0
+Pv14.193,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.194,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,4.424778761,0,0
+Pv14.195,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0.511727079,0.682302772,0,5.074626866,0,0,0
+Pv14.196,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,73.0964467,0,0,0
+Pv14.197,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,3.119266055,0,95.77981651,1.100917431,0,0
+Pv14.198,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.199,Harbour seal,2014,Sep,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,53.48837209,0,9.302325581,23.25581395,0,0
+Pv14.200,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,96.30005068,0,0
+Pv14.201,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,79.26829268,0,0,20.73170732,0,0
+Pv14.202,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,100,0,0,0
+Pv14.203,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.204,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,11.44672685,5.104833042,0,0,5.263157895,0,0
+Pv14.205,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.207,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.208,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,20.26759167,0,0
+Pv14.209,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,4.981005679,0.262473351,3.055868441,0,2.324632953,0,0
+Pv14.210,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,29.86525868,68.69827723,0,1.436464088,0,0
+Pv14.211,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.212,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,4.931335985,0.235485145,0,0,3.058387396,0,0
+Pv14.213,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,1.244167963,0,0,98.75583204,0,0
+Pv14.214,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.215,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,20.56074766,0,0,79.43925234,0,0
+Pv14.216,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,98.2428115,0,0,1.757188498,0,0
+Pv14.217,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.218,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,97.11191336,0,0,2.888086643,0,0
+Pv14.219,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,14.5668612,84.00456737,0,0,1.428571429,0,0
+Pv14.220,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,37.05733558,0,0,62.94266442,0,0
+Pv14.221,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,47.45895231,0,0,52.54104769,0,0
+Pv14.222,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,78.71451954,12.08687419,1.254355401,7.944250871,0,0
+Pv14.223,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,45.2887538,54.7112462,0,0
+Pv14.224,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,87.85952165,0,0
+Pv14.225,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,86.18881119,13.81118881,0,0,0,0,0
+Pv14.226,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,31.28584172,0,0,58.26430483,0,0
+Pv14.227,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.228,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,92.87499515,3.164608811,0,0,2.574257426,0,0
+Pv14.229,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.230,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.231,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,1.717089125,0,98.28291087,0,0,0
+Pv14.232,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,1.220801692,73.44996636,25.32923195,0,0,0,0
+Pv14.233,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,89.57802322,10.42197678,0,0,0,0
+Pv14.235,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,4.426515051,0.490078452,0,95.0834065,0,0
+Pv14.236,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.237,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,98.5,0,0,1.5,0,0
+Pv14.238,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.239,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,52.9153269,0,0,0,0,0
+Pv14.240,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.241,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,2.487941102,97.5120589,0,0,0,0,0
+Pv14.242,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,10.503663,0,0,89.496337,0,0
+Pv14.243,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,7.885015008,0,0,92.11498499,0,0
+Pv14.244,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,96.32107463,2.294473824,0,1.384451544,0,0
+Pv14.245,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.246,Harbour seal,2014,Oct,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.247,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.248,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.249,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.250,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,95.33980583,0,0,0,0,0
+Pv14.251,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,38.19502654,0,0,61.80497346,0,0
+Pv14.252,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.253,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,98.86759582,0,0,1.132404181,0,0
+Pv14.254,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.255,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,98.04305284,0,0,1.956947162,0,0
+Pv14.256,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,95.18181818,0,0,4.818181818,0,0
+Pv14.257,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.258,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,76.92307692,0,0,6.730769231,0,0
+Pv14.259,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,100,0,0
+Pv14.260,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.261,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,98.76923077,0,0,1.230769231,0,0
+Pv14.262,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.263,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.264,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.265,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,9.756097561,0,0,0,0,0
+Pv14.266,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.267,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.268,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,1.38121547,0,0,98.61878453,0,0
+Pv14.269,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.270,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,98.94736842,0,0,1.052631579,0,0
+Pv14.271,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,72.74472169,0,0,27.25527831,0,0
+Pv14.272,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,97.76785714,0,0,2.232142857,0,0
+Pv14.273,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.274,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,98.36601307,0,0,1.633986928,0,0
+Pv14.275,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.276,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.279,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.280,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,0,0,0,0,0,0
+Pv14.281,Harbour seal,2014,Nov,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.282,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.283,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.284,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,2.116040956,97.88395904,0,0,0,0,0
+Pv14.287,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.288,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,2.457045503,0,0,0,0,0
+Pv14.289,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,4.834605598,0,0,92.36641221,0,0
+Pv14.290,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.291,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
+Pv14.294,Harbour seal,2014,Dec,Fall,Cowichan,H0175,Cowichan_Bay,SOG,Estuary,48.7562,-123.6223,0,100,0,0,0,0,0
